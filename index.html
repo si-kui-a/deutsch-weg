@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Der Weg — 德語之路 | A1–C2 單字文法學習</title>
+<meta name="description" content="免費德語學習網站：A1 到 C2 全級別單字與文法，內建性別色彩記憶法、間隔重複複習與口訣聯想。繁體中文介面。">
+<!-- 字型為漸進增強：載入失敗時 fallback 至系統字型，不阻斷功能 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;1,400&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/zen.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <span class="brand">Der Weg <small>德語之路</small></span>
+    <nav class="tabs" role="tablist" aria-label="主導覽">
+      <button class="tab on" data-tab="home" role="tab" aria-selected="true">首頁</button>
+      <button class="tab" data-tab="vocab" role="tab" aria-selected="false">單字卡</button>
+      <button class="tab" data-tab="grammar" role="tab" aria-selected="false">文法</button>
+      <button class="tab" data-tab="quiz" role="tab" aria-selected="false">測驗</button>
+    </nav>
+  </header>
+  <main id="view"></main>
+</div>
+<script src="data/vocab.js"></script>
+<script src="data/grammar.js"></script>
+<script src="js/srs.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
