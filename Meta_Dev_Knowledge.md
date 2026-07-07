@@ -24,4 +24,5 @@
 - HALT-S1-DST_EXISTS: C:\Projects\deutsch-weg 已存在（.env + bundle + 無 .git 純檔案複本），user 裁決改 clone 至 deutsch-weg-repo
 - HALT-S2-NO_GITIGNORE: bundle 內無 .gitignore，已補（.env/.env.*/*.pem/*.key/secrets//*.bundle）
 - HALT-PREFLIGHT-SSH: 原無帳號級 GitHub key，user 以 deploy key 方案解決
-- DEPLOY-02: 待定 — 既有備份非 hourly 亦非 $repos 陣列 .ps1：實際為 IntelPusher_Backup（每日 03:00，bash backup.sh，intel-pusher 專用含加密步驟，不可共用）。deutsch-weg 掛備份需另建 script + 排程，等待 user 裁決。
+- HALT-S5-SCRIPT_STRUCTURE_UNKNOWN: 任務書預設的 hourly $repos 陣列 .ps1 不存在。實際為 IntelPusher_Backup（每日 03:00，bash backup.sh，intel-pusher 專用含加密步驟）——不共用、不修改，避免盲改生產腳本。
+- DEPLOY-02: user 裁決方案 A（每日）— 另建 backup.ps1（add→commit→push，ASCII-only、UTF-8 no BOM）＋ 排程任務 DeutschWeg_Backup（每日 03:10）。logs/ 已入 .gitignore 防 log 自我提交迴圈。
