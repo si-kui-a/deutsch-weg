@@ -7,7 +7,7 @@
 # ASCII-only strings per governance (PS 5.1 encoding safety).
 
 $ErrorActionPreference = 'Continue'
-$repo = 'C:\Projects\deutsch-weg-repo'
+$repo = $PSScriptRoot
 $logDir = Join-Path $repo 'logs'
 if (-not (Test-Path $logDir)) { New-Item -ItemType Directory -Path $logDir | Out-Null }
 $log = Join-Path $logDir 'backup.log'
