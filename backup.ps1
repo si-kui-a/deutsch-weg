@@ -1,4 +1,4 @@
-# backup.ps1 -- deutsch-weg daily git backup: add -> commit -> push
+﻿# backup.ps1 -- deutsch-weg daily git backup: add -> commit -> backup ref
 # Scheduled task: DeutschWeg_Backup (daily 03:10, runs as current user)
 # Static site, no PII, no encryption step needed (contrast: intel-pusher backup.sh).
 # Success/failure judged by git push exit code, NOT by output presence
@@ -21,7 +21,14 @@ git add -A 2>&1 | Out-Null
 # no-change days and must not abort the script (push still verifies remote).
 git commit -m "auto backup $ts" 2>&1 | Out-Null
 
-$pushOutput = (git push origin main 2>&1 | Out-String).Trim()
+$branch = (git branch --show-current 2>$null).Trim()
+if ([string]::IsNullOrWhiteSpace($branch)) { $branch = 'unknown' }
+if ($branch -eq 'main' -or $branch -eq 'master') {
+    $pushRef = "HEAD:refs/heads/auto-backup/deutsch-weg-$((Get-Date).ToString('yyyyMMdd-HHmmss'))"
+} else {
+    $pushRef = $branch
+}
+$pushOutput = (git push origin $pushRef 2>&1 | Out-String).Trim()
 $pushExit = $LASTEXITCODE
 $sha = git rev-parse --short HEAD 2>$null
 if ($null -eq $sha) { $sha = 'unknown' }
