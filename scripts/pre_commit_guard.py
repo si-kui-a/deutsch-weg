@@ -75,7 +75,12 @@ def check_no_secret_files() -> bool:
         is_env_secret = basename == ".env" or (
             basename.startswith(".env.") and basename != ".env.example"
         )
-        is_key_file = basename in ("key.properties",) or basename.endswith((".jks", ".keystore", ".p12"))
+        # .pem must match .github/workflows/ci.yml's key/cert extension list --
+        # this hook is the first line of defense (catches it before the commit
+        # ever exists); CI is only a backstop after push. A gap here means a
+        # .pem file slips past the hook and only gets caught (after already
+        # being committed) by CI, or not at all if CI is skipped.
+        is_key_file = basename in ("key.properties",) or basename.endswith((".jks", ".keystore", ".p12", ".pem"))
         if is_env_secret or is_key_file:
             print(f"[BLOCKED] {f} 疑似secrets/簽章金鑰檔案，不應該被commit。")
             ok = False

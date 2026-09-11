@@ -19,6 +19,13 @@
   目前16字/級別皆無重複，是 R-02「內容量待擴充」實現時最容易引入的錯誤
   ——已加 `scripts/check_vocab_data.js` + CI 步驟先擋住，不等內容真的
   擴充出問題才處理。
+- R-05（2026-09-11 repo-bug-audit-pipeline稽核發現並修復）：
+  `scripts/pre_commit_guard.py`的`check_no_secret_files()`跟
+  `.github/workflows/ci.yml`的「Secret/key file scan」宣稱做同一件事
+  （擋secrets/簽章金鑰檔案進版控），但金鑰副檔名清單悄悄長歪——CI擋
+  `.jks/.keystore/.p12/.pem`，pre-commit hook（第一道防線，commit前
+  就該擋下）漏了`.pem`，只有等push後CI才會抓到（此時檔案已經進了
+  git history）。已修：hook補上`.pem`，兩邊清單同步。
 
 ## 驗證紀錄
 - [ ] 瀏覽器四分頁功能驗證（本 session 以 node 靜態檢查替代，實機驗證待使用者執行）
