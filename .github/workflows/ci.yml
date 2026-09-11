@@ -19,6 +19,11 @@ jobs:
           set -e
           find js data -name '*.js' -print0 | xargs -0 -n1 node --check
 
+      - name: Vocab data uniqueness check
+        # Catches de/zh duplicates within a level -- see scripts/check_vocab_data.js
+        # docstring and Meta_Dev_Knowledge.md R-04 for why this matters.
+        run: node scripts/check_vocab_data.js
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
