@@ -24,6 +24,10 @@ jobs:
         # docstring and Meta_Dev_Knowledge.md R-04 for why this matters.
         run: node scripts/check_vocab_data.js
 
+      - name: Quiz and SRS unit tests
+        # Pure-function tests on the real vocab data -- see Meta_Dev_Knowledge.md R-06.
+        run: node scripts/test_core.js
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
