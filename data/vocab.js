@@ -6,26 +6,26 @@
 //   g: 名詞性別 "der"|"die"|"das"|null（非名詞填 null）
 //   pl: 複數形（非名詞填 null）
 //   ex: 德文例句           exZh: 例句繁中翻譯
-//   mn: 記憶口訣/聯想（諧音、字源、圖像聯想擇一）
+//   mn: 記憶法（構詞、同源字、成組記憶、圖像聯想擇一；不用諧音，check_vocab_data.js 會擋）
 // 新增單字 = 複製一筆物件改內容即可，不需動任何程式碼。
 // ============================================================
 window.VOCAB = {
 a1: [
 {de:"das Haus",zh:"房子",pos:"n",g:"das",pl:"Häuser",ex:"Das Haus ist alt.",exZh:"這棟房子很舊。",mn:"英文 house 同源，發音幾乎相同"},
-{de:"die Frau",zh:"女人；太太",pos:"n",g:"die",pl:"Frauen",ex:"Die Frau liest ein Buch.",exZh:"那位女士在讀書。",mn:"諧音「浮勞」→ 傳統上女性操勞浮於家務"},
+{de:"die Frau",zh:"女人；太太",pos:"n",g:"die",pl:"Frauen",ex:"Die Frau liest ein Buch.",exZh:"那位女士在讀書。",mn:"也用作稱呼：Frau Müller＝穆勒女士（男性用 Herr）"},
 {de:"der Mann",zh:"男人；先生",pos:"n",g:"der",pl:"Männer",ex:"Der Mann arbeitet viel.",exZh:"那位先生工作很多。",mn:"英文 man 同源，德文多一個 n"},
 {de:"das Kind",zh:"小孩",pos:"n",g:"das",pl:"Kinder",ex:"Das Kind spielt im Garten.",exZh:"小孩在花園玩。",mn:"幼稚園 Kindergarten 就是「小孩的花園」"},
 {de:"das Wasser",zh:"水",pos:"n",g:"das",pl:"—",ex:"Ich trinke Wasser.",exZh:"我喝水。",mn:"英文 water，w 開頭 s 音變 ss"},
-{de:"das Brot",zh:"麵包",pos:"n",g:"das",pl:"Brote",ex:"Ich kaufe frisches Brot.",exZh:"我買新鮮麵包。",mn:"諧音「玻蘿的」→ 菠蘿麵包"},
+{de:"das Brot",zh:"麵包",pos:"n",g:"das",pl:"Brote",ex:"Ich kaufe frisches Brot.",exZh:"我買新鮮麵包。",mn:"英文 bread 同源；das Brötchen＝小圓麵包（-chen 指小，名詞一律 das）"},
 {de:"gehen",zh:"走；去",pos:"v",g:null,pl:null,ex:"Ich gehe zur Schule.",exZh:"我去上學。",mn:"英文 go 同源；ge- 開頭想成「跨步」"},
 {de:"kommen",zh:"來",pos:"v",g:null,pl:null,ex:"Kommst du morgen?",exZh:"你明天來嗎？",mn:"英文 come 同源"},
 {de:"haben",zh:"有",pos:"v",g:null,pl:null,ex:"Ich habe eine Frage.",exZh:"我有一個問題。",mn:"英文 have 同源，b/v 互換"},
 {de:"sein",zh:"是",pos:"v",g:null,pl:null,ex:"Ich bin müde.",exZh:"我很累。",mn:"最重要不規則動詞：bin/bist/ist/sind/seid/sind"},
 {de:"gut",zh:"好的",pos:"adj",g:null,pl:null,ex:"Das Essen ist gut.",exZh:"食物很好吃。",mn:"英文 good 同源"},
 {de:"groß",zh:"大的；高的",pos:"adj",g:null,pl:null,ex:"Berlin ist eine große Stadt.",exZh:"柏林是座大城市。",mn:"英文 gross（總的、大的）同源"},
-{de:"klein",zh:"小的",pos:"adj",g:null,pl:null,ex:"Das Zimmer ist klein.",exZh:"房間很小。",mn:"諧音「克萊因」→ 克萊因瓶很小巧"},
-{de:"heute",zh:"今天",pos:"adv",g:null,pl:null,ex:"Heute ist Montag.",exZh:"今天是星期一。",mn:"諧音「豪伊特」→ 今天很豪"},
-{de:"die Zeit",zh:"時間",pos:"n",g:"die",pl:"Zeiten",ex:"Ich habe keine Zeit.",exZh:"我沒有時間。",mn:"諧音「猜特」→ 猜時間"},
+{de:"klein",zh:"小的",pos:"adj",g:null,pl:null,ex:"Das Zimmer ist klein.",exZh:"房間很小。",mn:"反義詞 groß；die Kleinigkeit＝小事（-keit 名詞一律 die）"},
+{de:"heute",zh:"今天",pos:"adv",g:null,pl:null,ex:"Heute ist Montag.",exZh:"今天是星期一。",mn:"成組記：gestern 昨天・heute 今天・morgen 明天；heute Abend＝今晚"},
+{de:"die Zeit",zh:"時間",pos:"n",g:"die",pl:"Zeiten",ex:"Ich habe keine Zeit.",exZh:"我沒有時間。",mn:"die Zeitung＝報紙（記錄當下時事）、die Freizeit＝空閒時間"},
 {de:"der Freund",zh:"朋友；男友",pos:"n",g:"der",pl:"Freunde",ex:"Er ist mein bester Freund.",exZh:"他是我最好的朋友。",mn:"英文 friend 同源，i 變 eu"}
 ],
 a2: [
@@ -55,7 +55,7 @@ b1: [
 {de:"die Verantwortung",zh:"責任",pos:"n",g:"die",pl:"Verantwortungen",ex:"Er übernimmt die Verantwortung.",exZh:"他承擔責任。",mn:"ver-+antworten(回答) → 必須為此回答的東西 = 責任（英 responsibility 邏輯相同）"},
 {de:"sich gewöhnen an",zh:"習慣於",pos:"v",g:null,pl:null,ex:"Ich habe mich an das Wetter gewöhnt.",exZh:"我已經習慣這裡的天氣了。",mn:"Gewohnheit(習慣)同根；固定搭配 an+Akk"},
 {de:"die Meinung",zh:"意見",pos:"n",g:"die",pl:"Meinungen",ex:"Meiner Meinung nach ist das falsch.",exZh:"依我看那是錯的。",mn:"meinen(認為)+ung；Meiner Meinung nach = 萬用口說句型"},
-{de:"vermeiden",zh:"避免",pos:"v",g:null,pl:null,ex:"Ich vermeide Zucker.",exZh:"我避免吃糖。",mn:"ver-+meiden(迴避) 加強版；諧音「非賣的」→ 避開不買"},
+{de:"vermeiden",zh:"避免",pos:"v",g:null,pl:null,ex:"Ich vermeide Zucker.",exZh:"我避免吃糖。",mn:"ver-+meiden(迴避) 加強版"},
 {de:"der Vorteil",zh:"優點",pos:"n",g:"der",pl:"Vorteile",ex:"Das hat viele Vorteile.",exZh:"這有很多優點。",mn:"vor(前)+Teil(部分) → 站在前面的部分；反義 Nachteil"},
 {de:"der Nachteil",zh:"缺點",pos:"n",g:"der",pl:"Nachteile",ex:"Jede Lösung hat Nachteile.",exZh:"每個方案都有缺點。",mn:"nach(後)+Teil → 落在後面的部分"},
 {de:"die Erfindung",zh:"發明",pos:"n",g:"die",pl:"Erfindungen",ex:"Das Internet ist eine wichtige Erfindung.",exZh:"網路是重要的發明。",mn:"er-+finden(找到) → 找出來的新東西"},

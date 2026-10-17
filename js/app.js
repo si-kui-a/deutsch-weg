@@ -52,7 +52,7 @@
   function buildQueue() {
     var words = window.VOCAB[state.level];
     var due = words.filter(function (w) { return window.SRS.isDue(cardId(w)); });
-    state.queue = (due.length ? due : words.slice()).sort(function () { return Math.random() - 0.5; });
+    state.queue = window.QUIZ.shuffle(due.length ? due : words);
     state.idx = 0;
     state.flipped = false;
   }
@@ -95,13 +95,7 @@
 
   // ---------- 測驗 ----------
   function buildQuiz() {
-    var words = window.VOCAB[state.level].slice().sort(function () { return Math.random() - 0.5; });
-    var qs = words.slice(0, Math.min(8, words.length)).map(function (w) {
-      var wrong = words.filter(function (x) { return x.de !== w.de; }).slice(0, 3).map(function (x) { return x.zh; });
-      var opts = wrong.concat([w.zh]).sort(function () { return Math.random() - 0.5; });
-      return { w: w, opts: opts, picked: null };
-    });
-    state.quiz = { qs: qs, i: 0, score: 0 };
+    state.quiz = { qs: window.QUIZ.build(window.VOCAB[state.level], 8), i: 0, score: 0 };
   }
   function renderQuiz() {
     if (!state.quiz) buildQuiz();
