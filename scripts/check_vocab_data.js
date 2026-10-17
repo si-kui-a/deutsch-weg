@@ -33,9 +33,24 @@ for (const level of Object.keys(VOCAB)) {
   }
 }
 
+// 3. 記憶法不用諧音（使用者 2026-10-17 決定）：諧音會讓發音記錯，
+//    也容易夾帶刻板印象（例如舊的 Frau「浮勞→女性操勞」）。
+//    文法主題的口訣一起檢查。
+global.window.GRAMMAR = undefined;
+require(path.join(__dirname, "..", "data", "grammar.js"));
+const HOMOPHONE = /諧音|音近|發音像|聽起來像|唸起來像/;
+const mnemonics = [];
+for (const level of Object.keys(VOCAB)) VOCAB[level].forEach((w) => mnemonics.push([`${level} ${w.de}`, w.mn]));
+for (const level of Object.keys(global.window.GRAMMAR)) {
+  global.window.GRAMMAR[level].forEach((t) => mnemonics.push([`${level} ${t.id}`, t.mn]));
+}
+mnemonics.forEach(([where, mn]) => {
+  if (HOMOPHONE.test(mn || "")) errors.push(`${where}: 記憶法用了諧音「${mn}」`);
+});
+
 if (errors.length) {
   console.log("FAILED:");
   errors.forEach((e) => console.log("  - " + e));
   process.exit(1);
 }
-console.log(`OK: 全部 ${Object.keys(VOCAB).length} 個級別的 de/zh 皆無重複`);
+console.log(`OK: 全部 ${Object.keys(VOCAB).length} 個級別的 de/zh 皆無重複，${mnemonics.length} 則記憶法都沒有用諧音`);
