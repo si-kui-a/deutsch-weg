@@ -8,6 +8,8 @@
 //     用文字比對 `o === cur.w.zh` 判斷測驗選項對錯，若有兩個不同單字
 //     的釋義文字相同，測驗選項會出現兩顆看起來一樣的按鈕，UX混淆。
 //
+// Usage: node scripts/check_vocab_data.js   （不需參數；CI 與 PROJECT_PROFILE offline_check 都會跑）
+//
 // 目前（16字/級別）沒有觸發過，但 R-02 已載明未來會批量擴充內容，
 // 這正是這類重複最容易被引入的時機，先把機械檢查準備好。
 "use strict";

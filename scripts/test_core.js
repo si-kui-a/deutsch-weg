@@ -2,6 +2,8 @@
 //
 // 用真實的 data/vocab.js 跑每個級別。測驗的檢查也拿舊寫法跑一次，
 // 確認這支測試真的抓得到 Meta_Dev_Knowledge.md R-06 那個 bug。
+//
+// Usage: node scripts/test_core.js   （不需參數；CI 與 PROJECT_PROFILE offline_check 都會跑）
 "use strict";
 const path = require("node:path");
 const assert = require("node:assert");
