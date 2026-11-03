@@ -28,6 +28,7 @@ A1–C2 全級別德語單字與文法學習網站。純靜態、零框架、零
 |---|---|---|
 | 新增/修改單字 | `data/vocab.js`（複製一筆物件） | 否 |
 | 新增/修改文法主題 | `data/grammar.js`（複製一筆物件） | 否 |
+| 印尼文滑卡（`indonesian/`） | 題目 `indonesian/cards.json` 由印尼文課程倉庫 `id_cards.py export` 產生；介面直接執行社統滑卡的程式（`site.js` 設定題庫、儲存 key 與深色配色，見 social-statistics-swipe-cards README「給其他網站共用」） | 否 |
 | 換配色/換皮 | `css/zen.css` 的 `:root` token 區 | 否 |
 | SRS 演算法 | `js/srs.js` | 是 |
 | 頁面流程 | `js/app.js` | 是 |

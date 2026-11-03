@@ -33,9 +33,14 @@ class RefCollector(HTMLParser):
                 self.refs.append(value)
 
 
+# Sibling GitHub Pages sites on the same origin (another repo, checked there): indonesian/ runs
+# social-statistics-swipe-cards' app through its boot.js
+SIBLING_SITES = ("/social-statistics-swipe-cards/",)
+
+
 def _is_local(ref):
     parsed = urlsplit(ref)
-    return not parsed.scheme and not parsed.netloc
+    return not parsed.scheme and not parsed.netloc and not ref.startswith(SIBLING_SITES)
 
 
 def check_html_refs():

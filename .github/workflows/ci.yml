@@ -17,12 +17,15 @@ jobs:
         # preinstalled on this runner) needs no npm install.
         run: |
           set -e
-          find js data -name '*.js' -print0 | xargs -0 -n1 node --check
+          find js data indonesian -name '*.js' -print0 | xargs -0 -n1 node --check
 
       - name: Vocab data uniqueness check
         # Catches de/zh duplicates within a level -- see scripts/check_vocab_data.js
         # docstring and Meta_Dev_Knowledge.md R-04 for why this matters.
         run: node scripts/check_vocab_data.js
+
+      - name: Indonesian page config
+        run: node scripts/test_indonesian.js
 
       - name: Quiz and SRS unit tests
         # Pure-function tests on the real vocab data -- see Meta_Dev_Knowledge.md R-06.

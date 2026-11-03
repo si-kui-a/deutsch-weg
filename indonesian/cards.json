@@ -1,0 +1,3495 @@
+{
+ "count": 191,
+ "scopes": [],
+ "cards": [
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-bukan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**bukan** 是什麼意思？",
+   "a": "**bukan**（副詞）：不是（否定名詞）\nIni teh, bukan kopi.\n這是茶，不是咖啡。\n> 後面是名詞用 bukan，不用 tidak；10-22 錄音 0:31:14\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-bukan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**bukan**（副詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "小心"
+    ],
+    [
+     "B",
+     "不是（否定名詞）"
+    ],
+    [
+     "C",
+     "不要（叫人別做）"
+    ],
+    [
+     "D",
+     "請（幫忙）；救命"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**bukan**（副詞）：不是（否定名詞）\nIni teh, bukan kopi.\n這是茶，不是咖啡。\n> 後面是名詞用 bukan，不用 tidak；10-22 錄音 0:31:14\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-bukan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：不是（否定名詞）（副詞）",
+   "a": "**bukan**（副詞）：不是（否定名詞）\nIni teh, bukan kopi.\n這是茶，不是咖啡。\n> 後面是名詞用 bukan，不用 tidak；10-22 錄音 0:31:14\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-harga",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**harga** 是什麼意思？",
+   "a": "**harga**（名詞）：價格\nBerapa harga kopi ini?\n這杯咖啡多少錢？\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-harga",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**harga**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "咖啡"
+    ],
+    [
+     "B",
+     "價格"
+    ],
+    [
+     "C",
+     "錢"
+    ],
+    [
+     "D",
+     "包包"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**harga**（名詞）：價格\nBerapa harga kopi ini?\n這杯咖啡多少錢？\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-harga",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：價格（名詞）",
+   "a": "**harga**（名詞）：價格\nBerapa harga kopi ini?\n這杯咖啡多少錢？\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-hati-hati",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**hati-hati** 是什麼意思？",
+   "a": "**hati-hati**（副詞）：小心\nHati-hati di jalan, ya!\n路上小心喔！\n> hati＝心、肝；重疊成 hati-hati＝小心。拼字依 KBBI VI（KBBI III 沒收）；10-22 錄音 0:40:01\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-hati-hati",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**hati-hati**（副詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "小心"
+    ],
+    [
+     "B",
+     "不要（叫人別做）"
+    ],
+    [
+     "C",
+     "不是（否定名詞）"
+    ],
+    [
+     "D",
+     "節省的；省錢"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**hati-hati**（副詞）：小心\nHati-hati di jalan, ya!\n路上小心喔！\n> hati＝心、肝；重疊成 hati-hati＝小心。拼字依 KBBI VI（KBBI III 沒收）；10-22 錄音 0:40:01\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-hati-hati",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：小心（副詞）",
+   "a": "**hati-hati**（副詞）：小心\nHati-hati di jalan, ya!\n路上小心喔！\n> hati＝心、肝；重疊成 hati-hati＝小心。拼字依 KBBI VI（KBBI III 沒收）；10-22 錄音 0:40:01\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-hemat",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**hemat** 是什麼意思？",
+   "a": "**hemat**（形容詞）：節省的；省錢\nIbu saya sangat hemat.\n我媽媽很節省。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-hemat",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**hemat**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "有錢的"
+    ],
+    [
+     "B",
+     "新的"
+    ],
+    [
+     "C",
+     "空的；（唸號碼時）零"
+    ],
+    [
+     "D",
+     "節省的；省錢"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**hemat**（形容詞）：節省的；省錢\nIbu saya sangat hemat.\n我媽媽很節省。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-hemat",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：節省的；省錢（形容詞）",
+   "a": "**hemat**（形容詞）：節省的；省錢\nIbu saya sangat hemat.\n我媽媽很節省。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-hujan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**hujan** 是什麼意思？",
+   "a": "**hujan**（名詞）：雨；下雨\nSore ini hujan.\n今天傍晚下雨。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-hujan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**hujan**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "雨；下雨"
+    ],
+    [
+     "B",
+     "錢"
+    ],
+    [
+     "C",
+     "咖啡"
+    ],
+    [
+     "D",
+     "價格"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**hujan**（名詞）：雨；下雨\nSore ini hujan.\n今天傍晚下雨。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-hujan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：雨；下雨（名詞）",
+   "a": "**hujan**（名詞）：雨；下雨\nSore ini hujan.\n今天傍晚下雨。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-jangan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**jangan** 是什麼意思？",
+   "a": "**jangan**（副詞）：不要（叫人別做）\nJangan minum kopi di sini.\n不要在這裡喝咖啡。\n> 禁止、勸告用 jangan；10-22 錄音 0:07:04\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-jangan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**jangan**（副詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "小心"
+    ],
+    [
+     "B",
+     "不是（否定名詞）"
+    ],
+    [
+     "C",
+     "不要（叫人別做）"
+    ],
+    [
+     "D",
+     "三"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**jangan**（副詞）：不要（叫人別做）\nJangan minum kopi di sini.\n不要在這裡喝咖啡。\n> 禁止、勸告用 jangan；10-22 錄音 0:07:04\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-jangan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：不要（叫人別做）（副詞）",
+   "a": "**jangan**（副詞）：不要（叫人別做）\nJangan minum kopi di sini.\n不要在這裡喝咖啡。\n> 禁止、勸告用 jangan；10-22 錄音 0:07:04\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-kacang",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kacang** 是什麼意思？",
+   "a": "**kacang**（名詞）：豆子；花生\nSaya suka kacang goreng.\n我喜歡炸花生。\n> 課堂提到 kacang manis（甜豆）、kacang asin（鹹豆）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-kacang",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kacang**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "牙齦"
+    ],
+    [
+     "B",
+     "牙齒"
+    ],
+    [
+     "C",
+     "朋友"
+    ],
+    [
+     "D",
+     "豆子；花生"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**kacang**（名詞）：豆子；花生\nSaya suka kacang goreng.\n我喜歡炸花生。\n> 課堂提到 kacang manis（甜豆）、kacang asin（鹹豆）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-kacang",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：豆子；花生（名詞）",
+   "a": "**kacang**（名詞）：豆子；花生\nSaya suka kacang goreng.\n我喜歡炸花生。\n> 課堂提到 kacang manis（甜豆）、kacang asin（鹹豆）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-kaya",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kaya** 是什麼意思？",
+   "a": "**kaya**（形容詞）：有錢的\nOrang itu kaya sekali.\n那個人非常有錢。\n> orang kaya＝有錢人；k 不送氣，聽起來像 g，但寫作 kaya（gaya 是「風格」）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-kaya",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kaya**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "痛；生病"
+    ],
+    [
+     "B",
+     "甜的"
+    ],
+    [
+     "C",
+     "有錢的"
+    ],
+    [
+     "D",
+     "節省的；省錢"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**kaya**（形容詞）：有錢的\nOrang itu kaya sekali.\n那個人非常有錢。\n> orang kaya＝有錢人；k 不送氣，聽起來像 g，但寫作 kaya（gaya 是「風格」）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-kaya",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：有錢的（形容詞）",
+   "a": "**kaya**（形容詞）：有錢的\nOrang itu kaya sekali.\n那個人非常有錢。\n> orang kaya＝有錢人；k 不送氣，聽起來像 g，但寫作 kaya（gaya 是「風格」）\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-panas",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**panas** 是什麼意思？",
+   "a": "**panas**（形容詞）：熱的；燙的\nKopi ini panas sekali.\n這杯咖啡很燙。\n> 也可指發燒\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-panas",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**panas**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "健康的"
+    ],
+    [
+     "B",
+     "熱的；燙的"
+    ],
+    [
+     "C",
+     "新的"
+    ],
+    [
+     "D",
+     "空的；（唸號碼時）零"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**panas**（形容詞）：熱的；燙的\nKopi ini panas sekali.\n這杯咖啡很燙。\n> 也可指發燒\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-panas",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：熱的；燙的（形容詞）",
+   "a": "**panas**（形容詞）：熱的；燙的\nKopi ini panas sekali.\n這杯咖啡很燙。\n> 也可指發燒\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-pulang",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**pulang** 是什麼意思？",
+   "a": "**pulang**（動詞）：回家；回去\nSaya mau pulang sekarang.\n我現在要回家。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-pulang",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**pulang**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "喝"
+    ],
+    [
+     "B",
+     "想要；要"
+    ],
+    [
+     "C",
+     "回家；回去"
+    ],
+    [
+     "D",
+     "請（邀請對方做某事）"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**pulang**（動詞）：回家；回去\nSaya mau pulang sekarang.\n我現在要回家。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-pulang",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：回家；回去（動詞）",
+   "a": "**pulang**（動詞）：回家；回去\nSaya mau pulang sekarang.\n我現在要回家。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-rumah",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**rumah** 是什麼意思？",
+   "a": "**rumah**（名詞）：房子；家\nRumah saya kecil.\n我家很小。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-rumah",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**rumah**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "房子；家"
+    ],
+    [
+     "B",
+     "茶"
+    ],
+    [
+     "C",
+     "包包"
+    ],
+    [
+     "D",
+     "雨；下雨"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**rumah**（名詞）：房子；家\nRumah saya kecil.\n我家很小。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-rumah",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：房子；家（名詞）",
+   "a": "**rumah**（名詞）：房子；家\nRumah saya kecil.\n我家很小。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-sakit",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sakit** 是什麼意思？",
+   "a": "**sakit**（形容詞）：痛；生病\nKepala saya sakit.\n我頭痛。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-sakit",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sakit**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "痛；生病"
+    ],
+    [
+     "B",
+     "有錢的"
+    ],
+    [
+     "C",
+     "有禮貌的"
+    ],
+    [
+     "D",
+     "節省的；省錢"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**sakit**（形容詞）：痛；生病\nKepala saya sakit.\n我頭痛。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-sakit",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：痛；生病（形容詞）",
+   "a": "**sakit**（形容詞）：痛；生病\nKepala saya sakit.\n我頭痛。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-sakit_gigi",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sakit gigi** 是什麼意思？",
+   "a": "**sakit gigi**（片語）：牙痛\nAdik sakit gigi.\n弟弟（或妹妹）牙痛。\n> sakit＋身體部位＝某處痛\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-sakit_gigi",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sakit gigi**（片語）的意思是？",
+   "choices": [
+    [
+     "A",
+     "生日快樂"
+    ],
+    [
+     "B",
+     "聖誕快樂"
+    ],
+    [
+     "C",
+     "牙痛"
+    ],
+    [
+     "D",
+     "今天"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**sakit gigi**（片語）：牙痛\nAdik sakit gigi.\n弟弟（或妹妹）牙痛。\n> sakit＋身體部位＝某處痛\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-sakit_gigi",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：牙痛（片語）",
+   "a": "**sakit gigi**（片語）：牙痛\nAdik sakit gigi.\n弟弟（或妹妹）牙痛。\n> sakit＋身體部位＝某處痛\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-sehat",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sehat** 是什麼意思？",
+   "a": "**sehat**（形容詞）：健康的\nNenek saya masih sehat.\n我奶奶還很健康。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-sehat",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sehat**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "甜的"
+    ],
+    [
+     "B",
+     "痛；生病"
+    ],
+    [
+     "C",
+     "健康的"
+    ],
+    [
+     "D",
+     "新的"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**sehat**（形容詞）：健康的\nNenek saya masih sehat.\n我奶奶還很健康。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-sehat",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：健康的（形容詞）",
+   "a": "**sehat**（形容詞）：健康的\nNenek saya masih sehat.\n我奶奶還很健康。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-sini",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sini** 是什麼意思？",
+   "a": "**sini**（代名詞）：這裡\nDuduk di sini, ya.\n坐這裡喔。\n> di sini＝在這裡，ke sini＝到這裡\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-sini",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sini**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "什麼時候"
+    ],
+    [
+     "B",
+     "我們（包含聽話的人）"
+    ],
+    [
+     "C",
+     "這裡"
+    ],
+    [
+     "D",
+     "誰"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**sini**（代名詞）：這裡\nDuduk di sini, ya.\n坐這裡喔。\n> di sini＝在這裡，ke sini＝到這裡\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-sini",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：這裡（代名詞）",
+   "a": "**sini**（代名詞）：這裡\nDuduk di sini, ya.\n坐這裡喔。\n> di sini＝在這裡，ke sini＝到這裡\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-sopan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sopan** 是什麼意思？",
+   "a": "**sopan**（形容詞）：有禮貌的\nAnak itu sangat sopan.\n那個孩子很有禮貌。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-sopan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sopan**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "甜的"
+    ],
+    [
+     "B",
+     "痛；生病"
+    ],
+    [
+     "C",
+     "新的"
+    ],
+    [
+     "D",
+     "有禮貌的"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**sopan**（形容詞）：有禮貌的\nAnak itu sangat sopan.\n那個孩子很有禮貌。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-sopan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：有禮貌的（形容詞）",
+   "a": "**sopan**（形容詞）：有禮貌的\nAnak itu sangat sopan.\n那個孩子很有禮貌。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-tas",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tas** 是什麼意思？",
+   "a": "**tas**（名詞）：包包\nTas saya di rumah.\n我的包包在家裡。\n> 所有格：東西先、人後（tas saya）；10-22 錄音 1:39:56\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-tas",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tas**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "牙齒"
+    ],
+    [
+     "B",
+     "包包"
+    ],
+    [
+     "C",
+     "朋友"
+    ],
+    [
+     "D",
+     "牙齦"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**tas**（名詞）：包包\nTas saya di rumah.\n我的包包在家裡。\n> 所有格：東西先、人後（tas saya）；10-22 錄音 1:39:56\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-tas",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：包包（名詞）",
+   "a": "**tas**（名詞）：包包\nTas saya di rumah.\n我的包包在家裡。\n> 所有格：東西先、人後（tas saya）；10-22 錄音 1:39:56\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-teman",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**teman** 是什麼意思？",
+   "a": "**teman**（名詞）：朋友\nDia teman baik saya.\n他是我的好朋友。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-teman",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**teman**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "朋友"
+    ],
+    [
+     "B",
+     "價格"
+    ],
+    [
+     "C",
+     "年；歲"
+    ],
+    [
+     "D",
+     "咖啡"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**teman**（名詞）：朋友\nDia teman baik saya.\n他是我的好朋友。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-teman",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：朋友（名詞）",
+   "a": "**teman**（名詞）：朋友\nDia teman baik saya.\n他是我的好朋友。\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-read-tolong",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tolong** 是什麼意思？",
+   "a": "**tolong**（動詞）：請（幫忙）；救命\nTolong tutup pintu.\n請關門。\n> 請人幫忙時放句首\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-pick-tolong",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tolong**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "想要；要"
+    ],
+    [
+     "B",
+     "哀悼；悲傷"
+    ],
+    [
+     "C",
+     "請（幫忙）；救命"
+    ],
+    [
+     "D",
+     "回家；回去"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**tolong**（動詞）：請（幫忙）；救命\nTolong tutup pintu.\n請關門。\n> 請人幫忙時放句首\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U01",
+   "label": "課本｜二",
+   "kind": "bank",
+   "id": "id-say-tolong",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：請（幫忙）；救命（動詞）",
+   "a": "**tolong**（動詞）：請（幫忙）；救命\nTolong tutup pintu.\n請關門。\n> 請人幫忙時放句首\n> 出處：課堂整理的單字（一週-二）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-read-gigi",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**gigi** 是什麼意思？",
+   "a": "**gigi**（名詞）：牙齒\nGigi adik putih.\n弟弟（或妹妹）的牙齒很白。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-pick-gigi",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**gigi**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "包包"
+    ],
+    [
+     "B",
+     "豆子；花生"
+    ],
+    [
+     "C",
+     "錢"
+    ],
+    [
+     "D",
+     "牙齒"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**gigi**（名詞）：牙齒\nGigi adik putih.\n弟弟（或妹妹）的牙齒很白。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-say-gigi",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：牙齒（名詞）",
+   "a": "**gigi**（名詞）：牙齒\nGigi adik putih.\n弟弟（或妹妹）的牙齒很白。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-read-goreng",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**goreng** 是什麼意思？",
+   "a": "**goreng**（形容詞）：炸的；炒的\nIbu suka ikan goreng.\n媽媽喜歡炸魚。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-pick-goreng",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**goreng**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "新的"
+    ],
+    [
+     "B",
+     "空的；（唸號碼時）零"
+    ],
+    [
+     "C",
+     "痛；生病"
+    ],
+    [
+     "D",
+     "炸的；炒的"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**goreng**（形容詞）：炸的；炒的\nIbu suka ikan goreng.\n媽媽喜歡炸魚。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-say-goreng",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：炸的；炒的（形容詞）",
+   "a": "**goreng**（形容詞）：炸的；炒的\nIbu suka ikan goreng.\n媽媽喜歡炸魚。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-read-gusi",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**gusi** 是什麼意思？",
+   "a": "**gusi**（名詞）：牙齦\nGusi saya merah.\n我的牙齦紅紅的。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-pick-gusi",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**gusi**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "錢"
+    ],
+    [
+     "B",
+     "朋友"
+    ],
+    [
+     "C",
+     "牙齦"
+    ],
+    [
+     "D",
+     "茶"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**gusi**（名詞）：牙齦\nGusi saya merah.\n我的牙齦紅紅的。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U02",
+   "label": "課本｜三",
+   "kind": "bank",
+   "id": "id-say-gusi",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：牙齦（名詞）",
+   "a": "**gusi**（名詞）：牙齦\nGusi saya merah.\n我的牙齦紅紅的。\n> 出處：課堂整理的單字（一週-三）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-baru",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**baru** 是什麼意思？",
+   "a": "**baru**（形容詞）：新的\nRumah makan itu baru.\n那家餐廳是新開的。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-baru",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**baru**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "痛；生病"
+    ],
+    [
+     "B",
+     "有禮貌的"
+    ],
+    [
+     "C",
+     "空的；（唸號碼時）零"
+    ],
+    [
+     "D",
+     "新的"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**baru**（形容詞）：新的\nRumah makan itu baru.\n那家餐廳是新開的。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-baru",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：新的（形容詞）",
+   "a": "**baru**（形容詞）：新的\nRumah makan itu baru.\n那家餐廳是新開的。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-berduka",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**berduka** 是什麼意思？",
+   "a": "**berduka**（動詞）：哀悼；悲傷\nKami turut berduka cita.\n我們一同哀悼（請節哀）。\n> turut berduka cita 是對喪家說的話；turut＝一同\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-berduka",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**berduka**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "回家；回去"
+    ],
+    [
+     "B",
+     "哀悼；悲傷"
+    ],
+    [
+     "C",
+     "喝"
+    ],
+    [
+     "D",
+     "請（邀請對方做某事）"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**berduka**（動詞）：哀悼；悲傷\nKami turut berduka cita.\n我們一同哀悼（請節哀）。\n> turut berduka cita 是對喪家說的話；turut＝一同\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-berduka",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：哀悼；悲傷（動詞）",
+   "a": "**berduka**（動詞）：哀悼；悲傷\nKami turut berduka cita.\n我們一同哀悼（請節哀）。\n> turut berduka cita 是對喪家說的話；turut＝一同\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-build-berduka",
+   "type": "構詞",
+   "section": "構詞",
+   "format": "flip",
+   "level": 2,
+   "q": "構詞：ber- 加上 duka，會變成哪個字？意思是？",
+   "a": "**berduka**（動詞）：哀悼；悲傷\nKami turut berduka cita.\n我們一同哀悼（請節哀）。\n> turut berduka cita 是對喪家說的話；turut＝一同\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-selamat_natal",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**selamat natal** 是什麼意思？",
+   "a": "**selamat natal**（片語）：聖誕快樂\nSelamat Natal, Bu Ani.\nAni 女士，聖誕快樂。\n> 課堂提到 Nataru＝Natal＋Tahun Baru（聖誕到新年的假期）\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-selamat_natal",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**selamat natal**（片語）的意思是？",
+   "choices": [
+    [
+     "A",
+     "今天"
+    ],
+    [
+     "B",
+     "聖誕快樂"
+    ],
+    [
+     "C",
+     "生日快樂"
+    ],
+    [
+     "D",
+     "牙痛"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**selamat natal**（片語）：聖誕快樂\nSelamat Natal, Bu Ani.\nAni 女士，聖誕快樂。\n> 課堂提到 Nataru＝Natal＋Tahun Baru（聖誕到新年的假期）\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-selamat_natal",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：聖誕快樂（片語）",
+   "a": "**selamat natal**（片語）：聖誕快樂\nSelamat Natal, Bu Ani.\nAni 女士，聖誕快樂。\n> 課堂提到 Nataru＝Natal＋Tahun Baru（聖誕到新年的假期）\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-selamat_tahun_baru",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**selamat tahun baru** 是什麼意思？",
+   "a": "**selamat tahun baru**（片語）：新年快樂\nSelamat tahun baru, Pak!\n先生，新年快樂！\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-selamat_tahun_baru",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**selamat tahun baru**（片語）的意思是？",
+   "choices": [
+    [
+     "A",
+     "新年快樂"
+    ],
+    [
+     "B",
+     "聖誕快樂"
+    ],
+    [
+     "C",
+     "生日快樂"
+    ],
+    [
+     "D",
+     "牙痛"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**selamat tahun baru**（片語）：新年快樂\nSelamat tahun baru, Pak!\n先生，新年快樂！\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-selamat_tahun_baru",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：新年快樂（片語）",
+   "a": "**selamat tahun baru**（片語）：新年快樂\nSelamat tahun baru, Pak!\n先生，新年快樂！\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-selamat_ulang_tahun",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**selamat ulang tahun** 是什麼意思？",
+   "a": "**selamat ulang tahun**（片語）：生日快樂\nSelamat ulang tahun, Rina!\nRina，生日快樂！\n> ulang＝再一次；ulang tahun＝又過一年→生日\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-selamat_ulang_tahun",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**selamat ulang tahun**（片語）的意思是？",
+   "choices": [
+    [
+     "A",
+     "生日快樂"
+    ],
+    [
+     "B",
+     "新年快樂"
+    ],
+    [
+     "C",
+     "牙痛"
+    ],
+    [
+     "D",
+     "今天"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**selamat ulang tahun**（片語）：生日快樂\nSelamat ulang tahun, Rina!\nRina，生日快樂！\n> ulang＝再一次；ulang tahun＝又過一年→生日\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-selamat_ulang_tahun",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：生日快樂（片語）",
+   "a": "**selamat ulang tahun**（片語）：生日快樂\nSelamat ulang tahun, Rina!\nRina，生日快樂！\n> ulang＝再一次；ulang tahun＝又過一年→生日\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-read-tahun",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tahun** 是什麼意思？",
+   "a": "**tahun**（名詞）：年；歲\nSaya belajar di sini dua tahun.\n我在這裡學了兩年。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-pick-tahun",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tahun**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "年；歲"
+    ],
+    [
+     "B",
+     "茶"
+    ],
+    [
+     "C",
+     "朋友"
+    ],
+    [
+     "D",
+     "雨；下雨"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**tahun**（名詞）：年；歲\nSaya belajar di sini dua tahun.\n我在這裡學了兩年。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U03",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "id": "id-say-tahun",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：年；歲（名詞）",
+   "a": "**tahun**（名詞）：年；歲\nSaya belajar di sini dua tahun.\n我在這裡學了兩年。\n> 出處：課堂整理的單字（一週-五2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-read-kami",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kami** 是什麼意思？",
+   "a": "**kami**（代名詞）：我們（不包含聽話的人）\nKami dari Taiwan.\n我們來自臺灣。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-pick-kami",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kami**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "我們（不包含聽話的人）"
+    ],
+    [
+     "B",
+     "誰"
+    ],
+    [
+     "C",
+     "這裡"
+    ],
+    [
+     "D",
+     "我們（包含聽話的人）"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**kami**（代名詞）：我們（不包含聽話的人）\nKami dari Taiwan.\n我們來自臺灣。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-say-kami",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：我們（不包含聽話的人）（代名詞）",
+   "a": "**kami**（代名詞）：我們（不包含聽話的人）\nKami dari Taiwan.\n我們來自臺灣。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-read-kita",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kita** 是什麼意思？",
+   "a": "**kita**（代名詞）：我們（包含聽話的人）\nKita pergi ke pasar.\n我們（你和我）去市場。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-pick-kita",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kita**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "我們（包含聽話的人）"
+    ],
+    [
+     "B",
+     "什麼時候"
+    ],
+    [
+     "C",
+     "誰"
+    ],
+    [
+     "D",
+     "這裡"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**kita**（代名詞）：我們（包含聽話的人）\nKita pergi ke pasar.\n我們（你和我）去市場。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U04",
+   "label": "課本｜五4",
+   "kind": "bank",
+   "id": "id-say-kita",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：我們（包含聽話的人）（代名詞）",
+   "a": "**kita**（代名詞）：我們（包含聽話的人）\nKita pergi ke pasar.\n我們（你和我）去市場。\n> kita 包含對方，kami 不包含\n> 出處：課堂整理的單字（一週-五4）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-read-kapan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kapan** 是什麼意思？",
+   "a": "**kapan**（代名詞）：什麼時候\nKapan kamu pulang?\n你什麼時候回家？\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-pick-kapan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kapan**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "我們（不包含聽話的人）"
+    ],
+    [
+     "B",
+     "這裡"
+    ],
+    [
+     "C",
+     "我們（包含聽話的人）"
+    ],
+    [
+     "D",
+     "什麼時候"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**kapan**（代名詞）：什麼時候\nKapan kamu pulang?\n你什麼時候回家？\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-say-kapan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：什麼時候（代名詞）",
+   "a": "**kapan**（代名詞）：什麼時候\nKapan kamu pulang?\n你什麼時候回家？\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-read-siapa",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**siapa** 是什麼意思？",
+   "a": "**siapa**（代名詞）：誰\nSiapa nama kamu?\n你叫什麼名字？\n> 問名字用 siapa，不用 apa\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-pick-siapa",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**siapa**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "誰"
+    ],
+    [
+     "B",
+     "這裡"
+    ],
+    [
+     "C",
+     "我們（包含聽話的人）"
+    ],
+    [
+     "D",
+     "什麼時候"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**siapa**（代名詞）：誰\nSiapa nama kamu?\n你叫什麼名字？\n> 問名字用 siapa，不用 apa\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U05",
+   "label": "課本｜五6",
+   "kind": "bank",
+   "id": "id-say-siapa",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：誰（代名詞）",
+   "a": "**siapa**（代名詞）：誰\nSiapa nama kamu?\n你叫什麼名字？\n> 問名字用 siapa，不用 apa\n> 出處：課堂整理的單字（一週-五6）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-belas",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**belas** 是什麼意思？",
+   "a": "**belas**（數詞）：十幾（十一到十九）\nDi kelas kami ada lima belas orang.\n我們班上有十五個人。\n> sebelas＝11，dua belas＝12\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-belas",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**belas**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "七"
+    ],
+    [
+     "B",
+     "十幾（十一到十九）"
+    ],
+    [
+     "C",
+     "百萬"
+    ],
+    [
+     "D",
+     "百"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**belas**（數詞）：十幾（十一到十九）\nDi kelas kami ada lima belas orang.\n我們班上有十五個人。\n> sebelas＝11，dua belas＝12\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-belas",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：十幾（十一到十九）（數詞）",
+   "a": "**belas**（數詞）：十幾（十一到十九）\nDi kelas kami ada lima belas orang.\n我們班上有十五個人。\n> sebelas＝11，dua belas＝12\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-delapan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**delapan** 是什麼意思？",
+   "a": "**delapan**（數詞）：八\nKelas mulai jam delapan.\n八點上課。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-delapan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**delapan**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "四"
+    ],
+    [
+     "B",
+     "三"
+    ],
+    [
+     "C",
+     "八"
+    ],
+    [
+     "D",
+     "二"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**delapan**（數詞）：八\nKelas mulai jam delapan.\n八點上課。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-delapan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：八（數詞）",
+   "a": "**delapan**（數詞）：八\nKelas mulai jam delapan.\n八點上課。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-dua",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**dua** 是什麼意思？",
+   "a": "**dua**（數詞）：二\nDua kopi, ya.\n兩杯咖啡喔。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-dua",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**dua**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "十（倍）"
+    ],
+    [
+     "B",
+     "十幾（十一到十九）"
+    ],
+    [
+     "C",
+     "一"
+    ],
+    [
+     "D",
+     "二"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**dua**（數詞）：二\nDua kopi, ya.\n兩杯咖啡喔。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-dua",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：二（數詞）",
+   "a": "**dua**（數詞）：二\nDua kopi, ya.\n兩杯咖啡喔。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-empat",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**empat** 是什麼意思？",
+   "a": "**empat**（數詞）：四\nRumah itu punya empat kamar.\n那間房子有四個房間。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-empat",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**empat**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "一"
+    ],
+    [
+     "B",
+     "四"
+    ],
+    [
+     "C",
+     "五"
+    ],
+    [
+     "D",
+     "八"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**empat**（數詞）：四\nRumah itu punya empat kamar.\n那間房子有四個房間。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-empat",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：四（數詞）",
+   "a": "**empat**（數詞）：四\nRumah itu punya empat kamar.\n那間房子有四個房間。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-enam",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**enam** 是什麼意思？",
+   "a": "**enam**（數詞）：六\nSaya bangun jam enam.\n我六點起床。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-enam",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**enam**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "三"
+    ],
+    [
+     "B",
+     "百萬"
+    ],
+    [
+     "C",
+     "六"
+    ],
+    [
+     "D",
+     "一"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**enam**（數詞）：六\nSaya bangun jam enam.\n我六點起床。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-enam",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：六（數詞）",
+   "a": "**enam**（數詞）：六\nSaya bangun jam enam.\n我六點起床。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-juta",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**juta** 是什麼意思？",
+   "a": "**juta**（數詞）：百萬\nHarga motor itu dua puluh juta.\n那台機車要兩千萬（印尼盾）。\n> satu juta 也說 sejuta\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-juta",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**juta**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "八"
+    ],
+    [
+     "B",
+     "百萬"
+    ],
+    [
+     "C",
+     "千"
+    ],
+    [
+     "D",
+     "十"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**juta**（數詞）：百萬\nHarga motor itu dua puluh juta.\n那台機車要兩千萬（印尼盾）。\n> satu juta 也說 sejuta\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-juta",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：百萬（數詞）",
+   "a": "**juta**（數詞）：百萬\nHarga motor itu dua puluh juta.\n那台機車要兩千萬（印尼盾）。\n> satu juta 也說 sejuta\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-kosong",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kosong** 是什麼意思？",
+   "a": "**kosong**（形容詞）：空的；（唸號碼時）零\nRumah itu kosong.\n那間房子是空的。\n> 唸電話號碼時常用 kosong 代替 nol\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-kosong",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kosong**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "節省的；省錢"
+    ],
+    [
+     "B",
+     "痛；生病"
+    ],
+    [
+     "C",
+     "空的；（唸號碼時）零"
+    ],
+    [
+     "D",
+     "新的"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**kosong**（形容詞）：空的；（唸號碼時）零\nRumah itu kosong.\n那間房子是空的。\n> 唸電話號碼時常用 kosong 代替 nol\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-kosong",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：空的；（唸號碼時）零（形容詞）",
+   "a": "**kosong**（形容詞）：空的；（唸號碼時）零\nRumah itu kosong.\n那間房子是空的。\n> 唸電話號碼時常用 kosong 代替 nol\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-lima",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**lima** 是什麼意思？",
+   "a": "**lima**（數詞）：五\nSaya punya lima teman.\n我有五個朋友。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-lima",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**lima**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "九"
+    ],
+    [
+     "B",
+     "千"
+    ],
+    [
+     "C",
+     "八"
+    ],
+    [
+     "D",
+     "五"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**lima**（數詞）：五\nSaya punya lima teman.\n我有五個朋友。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-lima",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：五（數詞）",
+   "a": "**lima**（數詞）：五\nSaya punya lima teman.\n我有五個朋友。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-nol",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**nol** 是什麼意思？",
+   "a": "**nol**（數詞）：零\nNomor kamar saya nol tiga.\n我的房號是零三。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-nol",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**nol**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "二"
+    ],
+    [
+     "B",
+     "七"
+    ],
+    [
+     "C",
+     "一"
+    ],
+    [
+     "D",
+     "零"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**nol**（數詞）：零\nNomor kamar saya nol tiga.\n我的房號是零三。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-nol",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：零（數詞）",
+   "a": "**nol**（數詞）：零\nNomor kamar saya nol tiga.\n我的房號是零三。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-puluh",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**puluh** 是什麼意思？",
+   "a": "**puluh**（數詞）：十（倍）\nHarganya dua puluh ribu.\n價格是兩萬（印尼盾）。\n> dua puluh＝20，tiga puluh＝30\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-puluh",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**puluh**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "零"
+    ],
+    [
+     "B",
+     "一"
+    ],
+    [
+     "C",
+     "十（倍）"
+    ],
+    [
+     "D",
+     "三"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**puluh**（數詞）：十（倍）\nHarganya dua puluh ribu.\n價格是兩萬（印尼盾）。\n> dua puluh＝20，tiga puluh＝30\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-puluh",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：十（倍）（數詞）",
+   "a": "**puluh**（數詞）：十（倍）\nHarganya dua puluh ribu.\n價格是兩萬（印尼盾）。\n> dua puluh＝20，tiga puluh＝30\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-ratus",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**ratus** 是什麼意思？",
+   "a": "**ratus**（數詞）：百\nAda tiga ratus siswa.\n有三百個學生。\n> seratus＝100\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-ratus",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**ratus**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "八"
+    ],
+    [
+     "B",
+     "百"
+    ],
+    [
+     "C",
+     "十（倍）"
+    ],
+    [
+     "D",
+     "六"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**ratus**（數詞）：百\nAda tiga ratus siswa.\n有三百個學生。\n> seratus＝100\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-ratus",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：百（數詞）",
+   "a": "**ratus**（數詞）：百\nAda tiga ratus siswa.\n有三百個學生。\n> seratus＝100\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-ribu",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**ribu** 是什麼意思？",
+   "a": "**ribu**（數詞）：千\nIni lima ribu rupiah.\n這是五千印尼盾。\n> seribu＝1000\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-ribu",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**ribu**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "百萬"
+    ],
+    [
+     "B",
+     "三"
+    ],
+    [
+     "C",
+     "六"
+    ],
+    [
+     "D",
+     "千"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**ribu**（數詞）：千\nIni lima ribu rupiah.\n這是五千印尼盾。\n> seribu＝1000\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-ribu",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：千（數詞）",
+   "a": "**ribu**（數詞）：千\nIni lima ribu rupiah.\n這是五千印尼盾。\n> seribu＝1000\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-satu",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**satu** 是什麼意思？",
+   "a": "**satu**（數詞）：一\nSaya punya satu adik.\n我有一個弟弟（或妹妹）。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-satu",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**satu**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "一"
+    ],
+    [
+     "B",
+     "七"
+    ],
+    [
+     "C",
+     "零"
+    ],
+    [
+     "D",
+     "九"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**satu**（數詞）：一\nSaya punya satu adik.\n我有一個弟弟（或妹妹）。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-satu",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：一（數詞）",
+   "a": "**satu**（數詞）：一\nSaya punya satu adik.\n我有一個弟弟（或妹妹）。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-sembilan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sembilan** 是什麼意思？",
+   "a": "**sembilan**（數詞）：九\nAda sembilan kucing di rumah.\n家裡有九隻貓。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-sembilan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sembilan**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "二"
+    ],
+    [
+     "B",
+     "九"
+    ],
+    [
+     "C",
+     "一"
+    ],
+    [
+     "D",
+     "千"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**sembilan**（數詞）：九\nAda sembilan kucing di rumah.\n家裡有九隻貓。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-sembilan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：九（數詞）",
+   "a": "**sembilan**（數詞）：九\nAda sembilan kucing di rumah.\n家裡有九隻貓。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-sepuluh",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sepuluh** 是什麼意思？",
+   "a": "**sepuluh**（數詞）：十\nAda sepuluh orang di kelas.\n教室裡有十個人。\n> se-＝一；sepuluh＝一個十\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-sepuluh",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sepuluh**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "七"
+    ],
+    [
+     "B",
+     "六"
+    ],
+    [
+     "C",
+     "十"
+    ],
+    [
+     "D",
+     "五"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**sepuluh**（數詞）：十\nAda sepuluh orang di kelas.\n教室裡有十個人。\n> se-＝一；sepuluh＝一個十\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-sepuluh",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：十（數詞）",
+   "a": "**sepuluh**（數詞）：十\nAda sepuluh orang di kelas.\n教室裡有十個人。\n> se-＝一；sepuluh＝一個十\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-tiga",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tiga** 是什麼意思？",
+   "a": "**tiga**（數詞）：三\nTiga teman saya datang.\n我的三個朋友來了。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-tiga",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tiga**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "八"
+    ],
+    [
+     "B",
+     "百萬"
+    ],
+    [
+     "C",
+     "零"
+    ],
+    [
+     "D",
+     "三"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**tiga**（數詞）：三\nTiga teman saya datang.\n我的三個朋友來了。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-tiga",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：三（數詞）",
+   "a": "**tiga**（數詞）：三\nTiga teman saya datang.\n我的三個朋友來了。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-read-tujuh",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tujuh** 是什麼意思？",
+   "a": "**tujuh**（數詞）：七\nSatu minggu ada tujuh hari.\n一週有七天。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-pick-tujuh",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tujuh**（數詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "百萬"
+    ],
+    [
+     "B",
+     "九"
+    ],
+    [
+     "C",
+     "十"
+    ],
+    [
+     "D",
+     "七"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**tujuh**（數詞）：七\nSatu minggu ada tujuh hari.\n一週有七天。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U06",
+   "label": "課本｜六1",
+   "kind": "bank",
+   "id": "id-say-tujuh",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：七（數詞）",
+   "a": "**tujuh**（數詞）：七\nSatu minggu ada tujuh hari.\n一週有七天。\n> 出處：課堂整理的單字（一週-六1）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U07",
+   "label": "課本｜六2",
+   "kind": "bank",
+   "id": "id-read-uang",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**uang** 是什麼意思？",
+   "a": "**uang**（名詞）：錢\nSaya tidak punya uang.\n我沒有錢。\n> 出處：課堂整理的單字（一週-六2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U07",
+   "label": "課本｜六2",
+   "kind": "bank",
+   "id": "id-pick-uang",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**uang**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "豆子；花生"
+    ],
+    [
+     "B",
+     "雨；下雨"
+    ],
+    [
+     "C",
+     "牙齒"
+    ],
+    [
+     "D",
+     "錢"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**uang**（名詞）：錢\nSaya tidak punya uang.\n我沒有錢。\n> 出處：課堂整理的單字（一週-六2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U07",
+   "label": "課本｜六2",
+   "kind": "bank",
+   "id": "id-say-uang",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：錢（名詞）",
+   "a": "**uang**（名詞）：錢\nSaya tidak punya uang.\n我沒有錢。\n> 出處：課堂整理的單字（一週-六2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U08",
+   "label": "課本｜六3",
+   "kind": "bank",
+   "id": "id-read-hari_ini",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**hari ini** 是什麼意思？",
+   "a": "**hari ini**（片語）：今天\nHari ini hari apa?\n今天星期幾？\n> hari＝日、天\n> 出處：課堂整理的單字（一週-六3）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U08",
+   "label": "課本｜六3",
+   "kind": "bank",
+   "id": "id-pick-hari_ini",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**hari ini**（片語）的意思是？",
+   "choices": [
+    [
+     "A",
+     "牙痛"
+    ],
+    [
+     "B",
+     "生日快樂"
+    ],
+    [
+     "C",
+     "新年快樂"
+    ],
+    [
+     "D",
+     "今天"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**hari ini**（片語）：今天\nHari ini hari apa?\n今天星期幾？\n> hari＝日、天\n> 出處：課堂整理的單字（一週-六3）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U08",
+   "label": "課本｜六3",
+   "kind": "bank",
+   "id": "id-say-hari_ini",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：今天（片語）",
+   "a": "**hari ini**（片語）：今天\nHari ini hari apa?\n今天星期幾？\n> hari＝日、天\n> 出處：課堂整理的單字（一週-六3）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-kopi",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**kopi** 是什麼意思？",
+   "a": "**kopi**（名詞）：咖啡\nSaya minum kopi setiap pagi.\n我每天早上喝咖啡。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-kopi",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**kopi**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "年；歲"
+    ],
+    [
+     "B",
+     "茶"
+    ],
+    [
+     "C",
+     "咖啡"
+    ],
+    [
+     "D",
+     "朋友"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**kopi**（名詞）：咖啡\nSaya minum kopi setiap pagi.\n我每天早上喝咖啡。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-kopi",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：咖啡（名詞）",
+   "a": "**kopi**（名詞）：咖啡\nSaya minum kopi setiap pagi.\n我每天早上喝咖啡。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-manis",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**manis** 是什麼意思？",
+   "a": "**manis**（形容詞）：甜的\nKue ini terlalu manis.\n這個蛋糕太甜了。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-manis",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**manis**（形容詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "痛；生病"
+    ],
+    [
+     "B",
+     "有禮貌的"
+    ],
+    [
+     "C",
+     "甜的"
+    ],
+    [
+     "D",
+     "熱的；燙的"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**manis**（形容詞）：甜的\nKue ini terlalu manis.\n這個蛋糕太甜了。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-manis",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：甜的（形容詞）",
+   "a": "**manis**（形容詞）：甜的\nKue ini terlalu manis.\n這個蛋糕太甜了。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-mau",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**mau** 是什麼意思？",
+   "a": "**mau**（動詞）：想要；要\nSaya mau teh manis.\n我要甜茶。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-mau",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**mau**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "想要；要"
+    ],
+    [
+     "B",
+     "請（邀請對方做某事）"
+    ],
+    [
+     "C",
+     "喝"
+    ],
+    [
+     "D",
+     "回家；回去"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**mau**（動詞）：想要；要\nSaya mau teh manis.\n我要甜茶。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-mau",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：想要；要（動詞）",
+   "a": "**mau**（動詞）：想要；要\nSaya mau teh manis.\n我要甜茶。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-minum",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**minum** 是什麼意思？",
+   "a": "**minum**（動詞）：喝\nKamu mau minum apa?\n你想喝什麼？\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-minum",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**minum**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "回家；回去"
+    ],
+    [
+     "B",
+     "哀悼；悲傷"
+    ],
+    [
+     "C",
+     "想要；要"
+    ],
+    [
+     "D",
+     "喝"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**minum**（動詞）：喝\nKamu mau minum apa?\n你想喝什麼？\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-minum",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：喝（動詞）",
+   "a": "**minum**（動詞）：喝\nKamu mau minum apa?\n你想喝什麼？\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-silakan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**silakan** 是什麼意思？",
+   "a": "**silakan**（動詞）：請（邀請對方做某事）\nSilakan masuk, Pak.\n先生，請進。\n> silakan 是邀請；tolong 是請對方幫忙\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-silakan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**silakan**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "請（邀請對方做某事）"
+    ],
+    [
+     "B",
+     "回家；回去"
+    ],
+    [
+     "C",
+     "請（幫忙）；救命"
+    ],
+    [
+     "D",
+     "哀悼；悲傷"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**silakan**（動詞）：請（邀請對方做某事）\nSilakan masuk, Pak.\n先生，請進。\n> silakan 是邀請；tolong 是請對方幫忙\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-silakan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：請（邀請對方做某事）（動詞）",
+   "a": "**silakan**（動詞）：請（邀請對方做某事）\nSilakan masuk, Pak.\n先生，請進。\n> silakan 是邀請；tolong 是請對方幫忙\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-read-teh",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**teh** 是什麼意思？",
+   "a": "**teh**（名詞）：茶\nTeh ini enak.\n這茶很好喝。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-pick-teh",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**teh**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "茶"
+    ],
+    [
+     "B",
+     "房子；家"
+    ],
+    [
+     "C",
+     "朋友"
+    ],
+    [
+     "D",
+     "包包"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**teh**（名詞）：茶\nTeh ini enak.\n這茶很好喝。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "U09",
+   "label": "課本｜日2",
+   "kind": "bank",
+   "id": "id-say-teh",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：茶（名詞）",
+   "a": "**teh**（名詞）：茶\nTeh ini enak.\n這茶很好喝。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-H01-practice-f3b5713f",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "practice",
+   "section": "1. 一到十與 se-",
+   "format": "flip",
+   "level": 1,
+   "q": "seratus 是多少？",
+   "a": "100。se-＝一，ratus＝百。"
+  },
+  {
+   "id": "id-H01-practice-49fd6942",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "practice",
+   "section": "2. 十一到十九、整十、百千萬",
+   "format": "flip",
+   "level": 1,
+   "q": "tiga puluh empat 是多少？",
+   "a": "34。tiga puluh＝30，再加 empat＝4。"
+  },
+  {
+   "id": "id-H01-practice-82aee20f",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "practice",
+   "section": "3. 數字的寫法與唸號碼",
+   "format": "flip",
+   "level": 1,
+   "q": "價目表寫 `25.000`，用印尼文怎麼唸？",
+   "a": "dua puluh lima ribu（兩萬五千）。"
+  },
+  {
+   "id": "id-H01-practice-c81c076e",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "practice",
+   "section": "4. Selamat＋時間或節日",
+   "format": "flip",
+   "level": 1,
+   "q": "rumah 是房子，baru 是新的。「新房子」怎麼說？",
+   "a": "rumah baru。形容詞放在名詞後面。"
+  },
+  {
+   "id": "id-H01-practice-242a63aa",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "practice",
+   "section": "5. kita 和 kami",
+   "format": "flip",
+   "level": 1,
+   "q": "你和同學下課後要去吃飯，你跟老師說「我們要去吃飯」，該用 kita 還是 kami？",
+   "a": "kami。老師沒有一起去，不包含聽話的人。"
+  },
+  {
+   "id": "id-H01-quiz-88745b4b",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "用印尼文說出 47。",
+   "a": "empat puluh tujuh。"
+  },
+  {
+   "id": "id-H01-quiz-2244c8af",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "價目表寫 `300.000`，是多少錢？",
+   "a": "三十萬（tiga ratus ribu）。點是千分位。"
+  },
+  {
+   "id": "id-H01-quiz-7227e54e",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "「生日快樂」怎麼說？ulang 是什麼意思？",
+   "a": "Selamat ulang tahun。ulang＝再一次。"
+  },
+  {
+   "id": "id-H01-quiz-790f1f00",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "你代表全班跟另一班說「我們班明天考試」，用 kita 還是 kami？",
+   "a": "kami。對方班級不包含在內。"
+  },
+  {
+   "id": "id-H01-quiz-39b93a47",
+   "chapter": "H01",
+   "label": "講義｜2026-10-15　數字與祝賀",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "用印尼文唸出今年 2026。",
+   "a": "dua ribu dua puluh enam。"
+  },
+  {
+   "id": "id-H02-practice-0052639a",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "practice",
+   "section": "1. 三種「不」：tidak、bukan、jangan",
+   "format": "flip",
+   "level": 1,
+   "q": "「不要在這裡喝水」要用哪一個？",
+   "a": "jangan：Jangan minum di sini. 這是叫別人不要做。"
+  },
+  {
+   "id": "id-H02-practice-1fad36dc",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "practice",
+   "section": "2. 所有格：名詞在前，人在後",
+   "format": "flip",
+   "level": 1,
+   "q": "「你的包包多少錢？」怎麼說？",
+   "a": "Berapa harga tas kamu? 「你的包包」是 tas kamu。"
+  },
+  {
+   "id": "id-H02-practice-133962ee",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "practice",
+   "section": "3. sakit 加身體部位、重疊造字",
+   "format": "flip",
+   "level": 1,
+   "q": "sakit gigi 和 sakit hati 差在哪裡？",
+   "a": "sakit gigi 是牙齒痛；sakit hati 是心裡受傷，也就是傷心。"
+  },
+  {
+   "id": "id-H02-practice-94b32fb1",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "practice",
+   "section": "4. 字首 ber-：berduka",
+   "format": "flip",
+   "level": 1,
+   "q": "查 berduka 時，要查哪個字根？",
+   "a": "duka。把字首 ber- 拿掉。"
+  },
+  {
+   "id": "id-H02-quiz-c9d28051",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "「她不是我的老師」的「不是」用哪個字？",
+   "a": "bukan，後面是名詞。"
+  },
+  {
+   "id": "id-H02-quiz-85cdb646",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "「不要在這裡吃東西」怎麼說？",
+   "a": "Jangan makan di sini."
+  },
+  {
+   "id": "id-H02-quiz-cffe245b",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "「我的房子」怎麼說？",
+   "a": "rumah saya。"
+  },
+  {
+   "id": "id-H02-quiz-c00614c3",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "牙痛怎麼說？",
+   "a": "sakit gigi。"
+  },
+  {
+   "id": "id-H02-quiz-f0f23b31",
+   "chapter": "H02",
+   "label": "講義｜2026-10-22　發音、否定與所有格",
+   "kind": "quiz",
+   "section": "自我檢測",
+   "format": "flip",
+   "level": 2,
+   "q": "複習第一堂：「你的包包多少錢？」回答「十五萬」。",
+   "a": "Berapa harga tas kamu? Seratus lima puluh ribu."
+  }
+ ],
+ "exams": [],
+ "sources": [
+  {
+   "name": "課堂單字卡",
+   "basis": "依 10-15、10-22 等課堂錄音整理的單字；例句與說明由 AI（Claude）自編，不含課本原文；拼字以 KBBI 為準",
+   "license": "未另行授權"
+  },
+  {
+   "name": "講義的隨堂試試與自我檢測",
+   "basis": "AI（Claude）依課堂錄音撰寫的講義（印尼文課程倉庫 講義/）",
+   "license": "未另行授權"
+  },
+  {
+   "name": "KBBI（印尼語大辭典）",
+   "basis": "只用來核對拼字與字根，卡片不收錄辭典釋義",
+   "license": "不收錄原文",
+   "url": "https://kbbi.kemendikdasmen.go.id/"
+  }
+ ]
+}
