@@ -6,8 +6,8 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#1e1a22",
-  "theme_color": "#1e1a22",
+  "background_color": "#f7f1e6",
+  "theme_color": "#f7f1e6",
   "icons": [
     {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"},
     {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable"}
