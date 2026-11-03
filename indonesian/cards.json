@@ -1,5 +1,5 @@
 {
- "count": 531,
+ "count": 569,
  "scopes": [
   {
    "id": "mid",
@@ -8,6 +8,19 @@
     "P20"
    ],
    "date": "2026-11-05"
+  },
+  {
+   "id": "oral",
+   "title": "口試（依標準推估，非老師公布）",
+   "chapters": [
+    "ORAL",
+    "ORAL-W",
+    "P148",
+    "P20",
+    "U2",
+    "U5-6",
+    "U7-2"
+   ]
   }
  ],
  "cards": [
@@ -44,11 +57,11 @@
     ],
     [
      "C",
-     "開；開門"
+     "懂；理解"
     ],
     [
      "D",
-     "請（邀請對方做某事）"
+     "開；開門"
     ]
    ],
    "answer": [
@@ -162,7 +175,7 @@
     ],
     [
      "D",
-     "不見；遺失"
+     "懂；理解"
     ]
    ],
    "answer": [
@@ -492,7 +505,7 @@
    "choices": [
     [
      "A",
-     "想要；要"
+     "懂；理解"
     ],
     [
      "B",
@@ -500,11 +513,11 @@
     ],
     [
      "C",
-     "睡覺"
+     "想要；要"
     ],
     [
      "D",
-     "哀悼；悲傷"
+     "睡覺"
     ]
    ],
    "answer": [
@@ -1005,7 +1018,7 @@
    "choices": [
     [
      "A",
-     "喜歡"
+     "懂；理解"
     ],
     [
      "B",
@@ -1013,11 +1026,11 @@
     ],
     [
      "C",
-     "是（連接主詞和名詞）"
+     "喜歡"
     ],
     [
      "D",
-     "寫"
+     "是（連接主詞和名詞）"
     ]
    ],
    "answer": [
@@ -1233,7 +1246,7 @@
    "choices": [
     [
      "A",
-     "事實"
+     "七月"
     ],
     [
      "B",
@@ -1241,11 +1254,11 @@
     ],
     [
      "C",
-     "鴨"
+     "事實"
     ],
     [
      "D",
-     "桌子"
+     "鴨"
     ]
    ],
    "answer": [
@@ -1469,11 +1482,11 @@
     ],
     [
      "C",
-     "寫"
+     "住；居住"
     ],
     [
      "D",
-     "洗"
+     "寫"
     ]
    ],
    "answer": [
@@ -1917,7 +1930,7 @@
    "choices": [
     [
      "A",
-     "哥哥；姊姊"
+     "名字"
     ],
     [
      "B",
@@ -1925,11 +1938,11 @@
     ],
     [
      "C",
-     "警察"
+     "哥哥；姊姊"
     ],
     [
      "D",
-     "事實"
+     "警察"
     ]
    ],
    "answer": [
@@ -2092,11 +2105,11 @@
     ],
     [
      "B",
-     "鴨"
+     "名字"
     ],
     [
      "C",
-     "水桶"
+     "鴨"
     ],
     [
      "D",
@@ -3236,11 +3249,11 @@
     ],
     [
      "C",
-     "這裡"
+     "他；她"
     ],
     [
      "D",
-     "那裡（離說話的人不遠）"
+     "這裡"
     ]
    ],
    "answer": [
@@ -3285,15 +3298,15 @@
    "choices": [
     [
      "A",
-     "怎麼樣；如何"
+     "那裡（遠處）"
     ],
     [
      "B",
-     "我們（包含聽話的人）"
+     "怎麼樣；如何"
     ],
     [
      "C",
-     "誰"
+     "我們（包含聽話的人）"
     ],
     [
      "D",
@@ -3346,7 +3359,7 @@
     ],
     [
      "B",
-     "再；又；正在（口語）"
+     "慢慢地"
     ],
     [
      "C",
@@ -3354,7 +3367,7 @@
     ],
     [
      "D",
-     "可能；也許"
+     "再；又；正在（口語）"
     ]
    ],
    "answer": [
@@ -3749,7 +3762,7 @@
     ],
     [
      "C",
-     "怎麼樣；如何"
+     "他；她"
     ],
     [
      "D",
@@ -4152,7 +4165,7 @@
    "choices": [
     [
      "A",
-     "哥哥；姊姊"
+     "七月"
     ],
     [
      "B",
@@ -4160,11 +4173,11 @@
     ],
     [
      "C",
-     "豆子；花生"
+     "哥哥；姊姊"
     ],
     [
      "D",
-     "地址"
+     "豆子；花生"
     ]
    ],
    "answer": [
@@ -4323,15 +4336,15 @@
    "choices": [
     [
      "A",
-     "小心"
+     "慢慢地"
     ],
     [
      "B",
-     "一下；一會兒"
+     "小心"
     ],
     [
      "C",
-     "可能；也許"
+     "一下；一會兒"
     ],
     [
      "D",
@@ -4498,15 +4511,15 @@
     ],
     [
      "B",
-     "請（幫忙）；救命"
+     "不好意思；借過（請求時用）"
     ],
     [
      "C",
-     "長命百歲"
+     "請（幫忙）；救命"
     ],
     [
      "D",
-     "聖誕快樂"
+     "長命百歲"
     ]
    ],
    "answer": [
@@ -4791,7 +4804,7 @@
     ],
     [
      "D",
-     "照片"
+     "七月"
     ]
    ],
    "answer": [
@@ -4901,7 +4914,7 @@
     ],
     [
      "C",
-     "吃"
+     "住；居住"
     ],
     [
      "D",
@@ -5923,11 +5936,11 @@
     ],
     [
      "B",
-     "不是（否定名詞）"
+     "慢慢地"
     ],
     [
      "C",
-     "小心"
+     "不是（否定名詞）"
     ],
     [
      "D",
@@ -6647,11 +6660,11 @@
     ],
     [
      "C",
-     "等"
+     "住；居住"
     ],
     [
      "D",
-     "有；在"
+     "等"
     ]
    ],
    "answer": [
@@ -6708,7 +6721,7 @@
     ],
     [
      "D",
-     "那裡（離說話的人不遠）"
+     "那裡（遠處）"
     ]
    ],
    "answer": [
@@ -6928,15 +6941,15 @@
     ],
     [
      "B",
-     "茶"
+     "七月"
     ],
     [
      "C",
-     "字母"
+     "茶"
     ],
     [
      "D",
-     "朋友"
+     "字母"
     ]
    ],
    "answer": [
@@ -7278,7 +7291,7 @@
     ],
     [
      "D",
-     "是（連接主詞和名詞）"
+     "懂；理解"
     ]
    ],
    "answer": [
@@ -7612,11 +7625,11 @@
     ],
     [
      "B",
-     "哀悼；悲傷"
+     "住；居住"
     ],
     [
      "C",
-     "有；在"
+     "哀悼；悲傷"
     ],
     [
      "D",
@@ -7677,7 +7690,7 @@
     ],
     [
      "D",
-     "回家；回去"
+     "懂；理解"
     ]
    ],
    "answer": [
@@ -9676,15 +9689,15 @@
     ],
     [
      "B",
-     "事實"
+     "七月"
     ],
     [
      "C",
-     "漫畫"
+     "事實"
     ],
     [
      "D",
-     "字母"
+     "漫畫"
     ]
    ],
    "answer": [
@@ -9703,6 +9716,576 @@
    "level": 3,
    "q": "用印尼文怎麼說：茶（名詞）",
    "a": "**teh**（名詞）：茶\nTeh ini enak.\n這茶很好喝。\n> 出處：課堂整理的單字（一週-日2）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-dan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**dan** 是什麼意思？",
+   "a": "**dan**（連接詞）：和；以及\nSaya mau kopi dan teh.\n我要咖啡和茶。\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-dan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**dan**（連接詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "不好意思；借過（請求時用）"
+    ],
+    [
+     "B",
+     "藍色的"
+    ],
+    [
+     "C",
+     "和；以及"
+    ],
+    [
+     "D",
+     "很好（回答 apa kabar）"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**dan**（連接詞）：和；以及\nSaya mau kopi dan teh.\n我要咖啡和茶。\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-dan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：和；以及（連接詞）",
+   "a": "**dan**（連接詞）：和；以及\nSaya mau kopi dan teh.\n我要咖啡和茶。\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-dia",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**dia** 是什麼意思？",
+   "a": "**dia**（代名詞）：他；她\nDia teman saya.\n他是我的朋友。\n> 不分男女\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-dia",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**dia**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "他；她"
+    ],
+    [
+     "B",
+     "怎麼樣；如何"
+    ],
+    [
+     "C",
+     "什麼"
+    ],
+    [
+     "D",
+     "誰"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**dia**（代名詞）：他；她\nDia teman saya.\n他是我的朋友。\n> 不分男女\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-dia",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：他；她（代名詞）",
+   "a": "**dia**（代名詞）：他；她\nDia teman saya.\n他是我的朋友。\n> 不分男女\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-juli",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**juli** 是什麼意思？",
+   "a": "**juli**（名詞）：七月\nHari ini tanggal satu Juli.\n今天是七月一日。\n> 月份大寫：Juli；日期說法是 tanggal＋數字＋月份\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-juli",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**juli**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "七月"
+    ],
+    [
+     "B",
+     "名字"
+    ],
+    [
+     "C",
+     "包包"
+    ],
+    [
+     "D",
+     "定義"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**juli**（名詞）：七月\nHari ini tanggal satu Juli.\n今天是七月一日。\n> 月份大寫：Juli；日期說法是 tanggal＋數字＋月份\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-juli",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：七月（名詞）",
+   "a": "**juli**（名詞）：七月\nHari ini tanggal satu Juli.\n今天是七月一日。\n> 月份大寫：Juli；日期說法是 tanggal＋數字＋月份\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-nama",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**nama** 是什麼意思？",
+   "a": "**nama**（名詞）：名字\nNama kamu siapa?\n你叫什麼名字？\n> 自我介紹：Nama saya …（我叫…）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-nama",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**nama**（名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "包包"
+    ],
+    [
+     "B",
+     "名字"
+    ],
+    [
+     "C",
+     "椅子"
+    ],
+    [
+     "D",
+     "字母"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**nama**（名詞）：名字\nNama kamu siapa?\n你叫什麼名字？\n> 自我介紹：Nama saya …（我叫…）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-nama",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：名字（名詞）",
+   "a": "**nama**（名詞）：名字\nNama kamu siapa?\n你叫什麼名字？\n> 自我介紹：Nama saya …（我叫…）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-paham",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**paham** 是什麼意思？",
+   "a": "**paham**（動詞）：懂；理解\nKamu paham?\n你懂嗎？\n> 聽不懂：Saya tidak paham.\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-paham",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**paham**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "懂；理解"
+    ],
+    [
+     "B",
+     "請（幫忙）；救命"
+    ],
+    [
+     "C",
+     "洗"
+    ],
+    [
+     "D",
+     "住；居住"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**paham**（動詞）：懂；理解\nKamu paham?\n你懂嗎？\n> 聽不懂：Saya tidak paham.\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-paham",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：懂；理解（動詞）",
+   "a": "**paham**（動詞）：懂；理解\nKamu paham?\n你懂嗎？\n> 聽不懂：Saya tidak paham.\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-pelan-pelan",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**pelan-pelan** 是什麼意思？",
+   "a": "**pelan-pelan**（副詞）：慢慢地\nTolong pelan-pelan, Pak.\n先生，請慢一點。\n> KBBI 標為口語（cak）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-pelan-pelan",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**pelan-pelan**（副詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "不（口語）"
+    ],
+    [
+     "B",
+     "慢慢地"
+    ],
+    [
+     "C",
+     "一下；一會兒"
+    ],
+    [
+     "D",
+     "可能；也許"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**pelan-pelan**（副詞）：慢慢地\nTolong pelan-pelan, Pak.\n先生，請慢一點。\n> KBBI 標為口語（cak）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-pelan-pelan",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：慢慢地（副詞）",
+   "a": "**pelan-pelan**（副詞）：慢慢地\nTolong pelan-pelan, Pak.\n先生，請慢一點。\n> KBBI 標為口語（cak）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-permisi",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**permisi** 是什麼意思？",
+   "a": "**permisi**（感嘆詞）：不好意思；借過（請求時用）\nPermisi, Pak.\n先生，不好意思（打擾一下）。\n> 要問事情或借過時先說；道歉用 maaf（對不起）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-permisi",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**permisi**（感嘆詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "不好意思；借過（請求時用）"
+    ],
+    [
+     "B",
+     "謝啦（口語）"
+    ],
+    [
+     "C",
+     "黃金"
+    ],
+    [
+     "D",
+     "新年快樂"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**permisi**（感嘆詞）：不好意思；借過（請求時用）\nPermisi, Pak.\n先生，不好意思（打擾一下）。\n> 要問事情或借過時先說；道歉用 maaf（對不起）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-permisi",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：不好意思；借過（請求時用）（感嘆詞）",
+   "a": "**permisi**（感嘆詞）：不好意思；借過（請求時用）\nPermisi, Pak.\n先生，不好意思（打擾一下）。\n> 要問事情或借過時先說；道歉用 maaf（對不起）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-sana",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**sana** 是什麼意思？",
+   "a": "**sana**（代名詞）：那裡（遠處）\nPasar malam di sana.\n夜市在那裡。\n> di sini 這裡、di situ 那裡（近）、di sana 那裡（遠）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-sana",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**sana**（代名詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "那裡（遠處）"
+    ],
+    [
+     "B",
+     "怎麼樣；如何"
+    ],
+    [
+     "C",
+     "這；這個"
+    ],
+    [
+     "D",
+     "多少；幾"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**sana**（代名詞）：那裡（遠處）\nPasar malam di sana.\n夜市在那裡。\n> di sini 這裡、di situ 那裡（近）、di sana 那裡（遠）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-sana",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：那裡（遠處）（代名詞）",
+   "a": "**sana**（代名詞）：那裡（遠處）\nPasar malam di sana.\n夜市在那裡。\n> di sini 這裡、di situ 那裡（近）、di sana 那裡（遠）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-tinggal",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**tinggal** 是什麼意思？",
+   "a": "**tinggal**（動詞）：住；居住\nKamu tinggal di mana?\n你住在哪裡？\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-tinggal",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**tinggal**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "住；居住"
+    ],
+    [
+     "B",
+     "是（連接主詞和名詞）"
+    ],
+    [
+     "C",
+     "說謊"
+    ],
+    [
+     "D",
+     "去；離開"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**tinggal**（動詞）：住；居住\nKamu tinggal di mana?\n你住在哪裡？\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-tinggal",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：住；居住（動詞）",
+   "a": "**tinggal**（動詞）：住；居住\nKamu tinggal di mana?\n你住在哪裡？\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-read-ulang",
+   "type": "認字",
+   "section": "認字",
+   "format": "flip",
+   "level": 1,
+   "q": "**ulang** 是什麼意思？",
+   "a": "**ulang**（動詞）：重複；再做（說）一次\nTolong ulang lagi, Bu.\n老師，請再說一次。\n> 正式一點說 Tolong ulangi（mengulangi 的命令式）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-pick-ulang",
+   "type": "選意思",
+   "section": "選意思",
+   "format": "mc",
+   "level": 2,
+   "q": "**ulang**（動詞）的意思是？",
+   "choices": [
+    [
+     "A",
+     "重複；再做（說）一次"
+    ],
+    [
+     "B",
+     "喜歡"
+    ],
+    [
+     "C",
+     "不見；遺失"
+    ],
+    [
+     "D",
+     "吃"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**ulang**（動詞）：重複；再做（說）一次\nTolong ulang lagi, Bu.\n老師，請再說一次。\n> 正式一點說 Tolong ulangi（mengulangi 的命令式）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "id": "id-say-ulang",
+   "type": "說出口",
+   "section": "說出口",
+   "format": "flip",
+   "level": 3,
+   "q": "用印尼文怎麼說：重複；再做（說）一次（動詞）",
+   "a": "**ulang**（動詞）：重複；再做（說）一次\nTolong ulang lagi, Bu.\n老師，請再說一次。\n> 正式一點說 Tolong ulangi（mengulangi 的命令式）\n> 出處：課堂整理的單字（口試）；例句由 AI 自編，拼字依 KBBI"
   },
   {
    "id": "id-H01-practice-f3b5713f",
@@ -9912,6 +10495,102 @@
    "level": 2,
    "q": "複習第一堂：「你的包包多少錢？」回答「十五萬」。",
    "a": "Berapa harga tas kamu? Seratus lima puluh ribu."
+  },
+  {
+   "id": "id-oral-greet",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "情境應答",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（情境應答）：晚上在教室遇到老師（女），跟她打招呼、問近況；她反問你時回答。",
+   "a": "Selamat malam, Bu. Apa kabar?　老師晚安，您好嗎？\nKabar baik, terima kasih.　很好，謝謝。\n> 用到的卡片：selamat datang（P20）、pasar malam（P20）、bu（P20）、apa（P20）、kabar（P20）、baik（P20）、terima kasih（P20）、terima kasih（P20）\n> 依據：BIPA1 U1、CEFR A1 口語互動；題型照 UKBI 口說的「情境應答」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-self",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "短獨白",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（短獨白）：自我介紹：名字、哪國人、住在哪個城市。",
+   "a": "Selamat pagi. Nama saya Ani.　早安，我叫 Ani。\nSaya orang Taiwan.　我是台灣人。\nSaya tinggal di kota Taichung.　我住在台中市。\n> 用到的卡片：selamat datang（P20）、selamat pagi（P20）、nama（ORAL-W）、saya（P20）、orang（P20）、tinggal（ORAL-W）、di mana（P20）、kota（P20）\n> 依據：BIPA1 U2、CEFR A1 口語表達；題型照 UKBI 口說的「短獨白」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-other",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "短獨白",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（短獨白）：介紹一位家人或朋友：他是誰、喜歡和不喜歡什麼。",
+   "a": "Ini kakak saya.　這是我的哥哥（姊姊）。\nDia suka kopi dan teh.　他喜歡咖啡和茶。\nDia tidak suka ikan.　他不喜歡魚。\n> 用到的卡片：ini（P20）、kakak（P20）、saya（P20）、dia（ORAL-W）、suka（P20）、kopi（U7-2）、dan（ORAL-W）、teh（U7-2）、tidak（P20）、ikan（P20）\n> 依據：BIPA1 U2、CEFR A1 口語表達；題型照 UKBI 口說的「短獨白」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-price",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "情境應答",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（情境應答）：在夜市買東西：問一杯咖啡多少錢，聽到價錢後說要買一杯。",
+   "a": "Berapa harga kopi ini?　這杯咖啡多少錢？\nSepuluh ribu.　一萬（印尼盾）。\nSaya mau satu, terima kasih.　我要一杯，謝謝。\n> 用到的卡片：berapa（P20）、harga（U2）、kopi（U7-2）、ini（P20）、sepuluh（P148）、ribu（P148）、saya（P20）、mau（P20）、satu（P148）、terima kasih（P20）、terima kasih（P20）\n> 依據：BIPA1 U3、CEFR A1 口語互動；題型照 UKBI 口說的「情境應答」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-age",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "情境應答",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（情境應答）：對方問你幾歲、生日是什麼時候，用完整句子回答。",
+   "a": "Berapa umur kamu?　你幾歲？\nUmur saya dua puluh tahun.　我二十歲。\nKapan ulang tahun kamu?　你生日是什麼時候？\nTanggal lima belas Juli.　七月十五日。\n> 用到的卡片：berapa（P20）、umur（P20）、kamu（P20）、saya（P20）、dua（P148）、puluh（P148）、tahun（P20）、kapan（U5-6）、ulang（ORAL-W）、tanggal（P20）、lima（P148）、belas（P148）、juli（ORAL-W）\n> 依據：BIPA1 U4、CEFR A1 口語互動；題型照 UKBI 口說的「情境應答」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-place",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "情境應答",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（情境應答）：問路：請問廁所在哪裡；再回答對方問你家在哪裡。",
+   "a": "Permisi, toilet di mana?　不好意思，廁所在哪裡？\nToilet di sana.　廁所在那邊。\nRumah kamu di mana?　你家在哪裡？\nRumah saya di Taichung.　我家在台中。\n> 用到的卡片：permisi（ORAL-W）、toilet（P20）、di mana（P20）、di mana（P20）、sana（ORAL-W）、rumah（P20）、kamu（P20）、saya（P20）\n> 依據：BIPA1 U9、CEFR A1 口語表達、CEFR A1 口語互動；題型照 UKBI 口說的「情境應答」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-daily",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "短獨白",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（短獨白）：說說你的喜好和今晚要做什麼。",
+   "a": "Saya suka makan ikan goreng.　我喜歡吃炸魚。\nSaya tidak suka minum kopi.　我不喜歡喝咖啡。\nMalam ini saya mau baca buku.　今晚我要看書。\n> 用到的卡片：saya（P20）、suka（P20）、makan（P20）、ikan（P20）、goreng（P20）、tidak（P20）、minum（P20）、kopi（U7-2）、pasar malam（P20）、ini（P20）、mau（P20）、baca（P20）、buku（P20）\n> 依據：BIPA1 U6、BIPA1 U7、CEFR A1 口語表達；題型照 UKBI 口說的「短獨白」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
+  },
+  {
+   "id": "id-oral-repair",
+   "chapter": "ORAL-T",
+   "label": "口試｜任務",
+   "kind": "task",
+   "type": "口試任務",
+   "section": "情境應答",
+   "format": "flip",
+   "level": 3,
+   "q": "口試任務（情境應答）：聽不懂老師的問題時：說你聽不懂，請老師再說一次、說慢一點。",
+   "a": "Bu, saya tidak paham.　老師，我聽不懂。\nTolong ulang lagi, pelan-pelan.　請慢慢地再說一次。\n> 用到的卡片：bu（P20）、saya（P20）、tidak（P20）、paham（ORAL-W）、tolong（P20）、ulang（ORAL-W）、lagi（P20）、pelan-pelan（ORAL-W）\n> 依據：BIPA1 U8、BIPA1 U10、CEFR A1 口語互動；題型照 UKBI 口說的「情境應答」。這是依公開標準推估的範圍，不是老師公布的；示範答句由 AI 自編，拼字依 KBBI"
   }
  ],
  "exams": [
@@ -9950,6 +10629,44 @@
      "match": "^用印尼文怎麼說"
     }
    ]
+  },
+  {
+   "id": "oral",
+   "title": "口試模擬考（任務題＋說出口）",
+   "minutes": 15,
+   "scope": {
+    "chapters": [
+     "ORAL",
+     "ORAL-W",
+     "P148",
+     "P20",
+     "U2",
+     "U5-6",
+     "U7-2"
+    ]
+   },
+   "note": "口試範圍的原始手寫筆記遺失，這份是依 BIPA 1 課本單元目標與 CEFR A1 口說推估的任務（見 課堂筆記/口試能力標準.md），不是老師公布的範圍。老師沒有公布口試時間與題數：15 分鐘、6 題任務、12 題說出口都是推估。說出口題抽自任務用到的字所在的整個章節，所以會出現任務沒用到的字。",
+   "sections": [
+    {
+     "name": "口試任務",
+     "n": 6,
+     "formats": [
+      "flip"
+     ],
+     "chapters": [
+      "ORAL-T"
+     ],
+     "match": "^口試任務"
+    },
+    {
+     "name": "說出口",
+     "n": 12,
+     "formats": [
+      "flip"
+     ],
+     "match": "^用印尼文怎麼說"
+    }
+   ]
   }
  ],
  "sources": [
@@ -9961,6 +10678,11 @@
   {
    "name": "講義的隨堂試試與自我檢測",
    "basis": "AI（Claude）依課堂錄音撰寫的講義（印尼文課程倉庫 講義/）",
+   "license": "未另行授權"
+  },
+  {
+   "name": "口試任務題",
+   "basis": "依 BIPA 1 課本單元目標與 CEFR A1 口說推估，題型照 UKBI 口說；不是老師公布的口試範圍；示範答句由 AI（Claude）自編",
    "license": "未另行授權"
   },
   {
