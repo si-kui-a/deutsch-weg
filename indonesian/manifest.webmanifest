@@ -1,0 +1,15 @@
+{
+  "name": "印尼文滑卡",
+  "short_name": "印尼文滑卡",
+  "description": "印尼文練習卡：課堂單字與講義題目，先作答再翻面，左右滑記對錯，依間隔重複排程，可離線使用。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1a22",
+  "theme_color": "#1e1a22",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable"}
+  ]
+}
