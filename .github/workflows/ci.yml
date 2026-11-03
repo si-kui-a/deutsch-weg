@@ -38,6 +38,9 @@ jobs:
       - name: HTML reference check
         run: python scripts/ci_check_html_refs.py
 
+      - name: HTML reference check tests
+        run: python -m unittest scripts/test_ci_check_html_refs.py
+
       - name: Secret/key file scan
         run: |
           set -e
