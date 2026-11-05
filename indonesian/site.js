@@ -7,10 +7,10 @@ window.SITE = {
   decks: { id: { title: "印尼文", file: "cards.json", key: "id-swipe-cards-v1", newStart: 10 } },
   deckKey: "id-swipe-cards-deck",
   app: "deutsch-weg-indonesian",
-  repo: "si-kui-a/deutsch-weg",
+  repo: "si-kui-a/language-learning",
   texts: {
     creditsLicence: "單字例句、說明與講義題目由 AI（Claude）依課堂內容自編，非官方；拼字以 KBBI 為準，不收錄課本與辭典原文。App 程式沿用社會統計滑卡，保留所有權利。",
-    creditsReport: "每張卡翻面後的「出處」列出課堂單元或講義。發現錯誤或有疑慮：翻面後按「回報這題有誤或有疑慮」，或到 GitHub 倉庫 si-kui-a/deutsch-weg 開 issue，確認後修正或移除。",
+    creditsReport: "每張卡翻面後的「出處」列出課堂單元或講義。發現錯誤或有疑慮：翻面後按「回報這題有誤或有疑慮」，或到 GitHub 倉庫 si-kui-a/language-learning 開 issue，確認後修正或移除。",
   },
   // Cream whatever the phone's setting (user choice 2026-11-03, replacing dark plum): cream paper, warm brown
   // ink, plum-rose accent. Every text colour is at least 4.5:1 (WCAG AA) on card, paper and tag.

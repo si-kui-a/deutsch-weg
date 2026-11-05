@@ -16,7 +16,7 @@
 const path = require("node:path");
 
 global.window = {};
-require(path.join(__dirname, "..", "data", "vocab.js"));
+require(path.join(__dirname, "..", "german", "data", "vocab.js"));
 const VOCAB = global.window.VOCAB;
 
 let errors = [];
@@ -39,7 +39,7 @@ for (const level of Object.keys(VOCAB)) {
 //    也容易夾帶刻板印象（例如舊的 Frau「浮勞→女性操勞」）。
 //    文法主題的口訣一起檢查。
 global.window.GRAMMAR = undefined;
-require(path.join(__dirname, "..", "data", "grammar.js"));
+require(path.join(__dirname, "..", "german", "data", "grammar.js"));
 const HOMOPHONE = /諧音|音近|發音像|聽起來像|唸起來像/;
 const mnemonics = [];
 for (const level of Object.keys(VOCAB)) VOCAB[level].forEach((w) => mnemonics.push([`${level} ${w.de}`, w.mn]));
