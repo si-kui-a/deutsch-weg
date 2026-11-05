@@ -1,7 +1,8 @@
 # 語言學習網站（Language Learning）
 
 繁中母語者用的多語言學習網站，原為德語網站 Der Weg（repo 原名 deutsch-weg，2026-11-05 改名）。純靜態、零框架、零後端。
-線上版：https://si-kui-a.github.io/language-learning/
+線上版
+https://si-kui-a.github.io/language-learning/
 
 | 語言 | 資料夾 | 內容 |
 |---|---|---|
