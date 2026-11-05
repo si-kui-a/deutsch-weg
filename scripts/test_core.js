@@ -9,9 +9,9 @@ const path = require("node:path");
 const assert = require("node:assert");
 
 global.window = {};
-require(path.join(__dirname, "..", "data", "vocab.js"));
-require(path.join(__dirname, "..", "js", "srs.js"));
-const QUIZ = require(path.join(__dirname, "..", "js", "quiz.js"));
+require(path.join(__dirname, "..", "german", "data", "vocab.js"));
+require(path.join(__dirname, "..", "german", "js", "srs.js"));
+const QUIZ = require(path.join(__dirname, "..", "german", "js", "quiz.js"));
 const VOCAB = global.window.VOCAB, SRS = global.window.SRS;
 
 // 可重現的亂數（mulberry32）

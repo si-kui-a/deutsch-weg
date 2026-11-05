@@ -1,6 +1,6 @@
-# 10-1001_Deutsch_Weg_德語學習網站/scripts 指令目錄
+# 10-1001_Language_Learning_語言學習網站/scripts 指令目錄
 
-<!-- make_command_catalog: dirs=.; title=10-1001_Deutsch_Weg_德語學習網站/scripts 指令目錄 -->
+<!-- make_command_catalog: dirs=.; title=10-1001_Language_Learning_語言學習網站/scripts 指令目錄 -->
 本檔由 `make_command_catalog.py` 從各腳本開頭說明自動產生，不要手動編輯；改腳本說明後執行 `python make_command_catalog.py --recheck COMMANDS.md --write`。
 
 | 腳本 | 用途 |

@@ -1,8 +1,8 @@
-# Meta_Dev_Knowledge.md — deutsch-weg
+# Meta_Dev_Knowledge.md — language-learning（原 deutsch-weg）
 
 ## 決策紀錄
 - ARCH-01 [CORE_IMMUTABLE]: 純靜態站（HTML/CSS/原生JS），拒絕框架與build step。理由：上線營運成本0（GitHub Pages）、維護門檻最低、運算複雜度最低。
-- ARCH-02 [CORE_IMMUTABLE]: 內容與邏輯分離——data/*.js 純資料、js/*.js 純邏輯。內容擴充不碰程式碼。
+- ARCH-02 [CORE_IMMUTABLE]: 內容與邏輯分離——german/data/*.js 純資料、german/js/*.js 純邏輯。內容擴充不碰程式碼。
 - ARCH-03: 資料用 window.DATA 全域 script 而非 fetch(JSON)。理由：file:// 本地雙擊即可運行，無 CORS 問題。天花板：資料量>1MB 時改 fetch+分片。
 - SRS-01: SM-2 簡化版（三鍵評分：忘記/模糊/記得）。完整SM-2的q0-q5六級評分對行動端過重。
 - UI-01 [CORE_IMMUTABLE]: 性別三色（der藍/die紅/das綠）同時是學習法與視覺識別，任何換皮不得移除。
