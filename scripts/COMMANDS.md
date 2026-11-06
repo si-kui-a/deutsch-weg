@@ -22,7 +22,7 @@ node scripts/check_vocab_data.js   （不需參數；CI 與 PROJECT_PROFILE offl
 ### `ci_check_html_refs.py`
 
 ```
-python ci_check_html_refs.py   (不需參數)
+python scripts/ci_check_html_refs.py   # exit 1 and list each broken reference
 ```
 
 ### `install_hooks.py`

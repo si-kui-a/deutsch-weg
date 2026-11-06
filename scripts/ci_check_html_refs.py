@@ -9,6 +9,9 @@ network-dependent check on something that's designed to degrade quietly.
 
 JS syntax itself is checked separately in the workflow via `node --check`
 (Node ships on GitHub's runners; no reason to reimplement a JS parser).
+
+Usage:
+  python scripts/ci_check_html_refs.py   # exit 1 and list each broken reference
 """
 import os
 import sys
@@ -43,9 +46,9 @@ def _is_local(ref):
     return not parsed.scheme and not parsed.netloc and not ref.startswith(SIBLING_SITES)
 
 
-def check_html_refs():
+def check_html_refs(root=ROOT):
     errors = []
-    for dirpath, _dirnames, filenames in os.walk(ROOT):
+    for dirpath, _dirnames, filenames in os.walk(root):
         if os.sep + ".git" in dirpath + os.sep:
             continue
         for fname in filenames:
@@ -61,7 +64,7 @@ def check_html_refs():
                     continue
                 target = os.path.normpath(os.path.join(os.path.dirname(html_path), urlsplit(ref).path))
                 if not os.path.isfile(target):
-                    errors.append(f"{os.path.relpath(html_path, ROOT)}: broken local reference '{ref}'")
+                    errors.append(f"{os.path.relpath(html_path, root)}: broken local reference '{ref}'")
     return errors
 
 
