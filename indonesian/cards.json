@@ -1,5 +1,5 @@
 {
- "count": 2201,
+ "count": 2603,
  "scopes": [
   {
    "id": "mid",
@@ -62400,6 +62400,6892 @@
    "type": "Tugas lisan",
    "examOnly": true,
    "q": "Tugas lisan (menanggapi situasi): Kamu tidak paham pertanyaan guru. Katakan itu, lalu minta guru mengulang dengan pelan."
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-Natal",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat Hari Natal, Bu!",
+   "a": "**（對女士說）聖誕快樂！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat | 祝…（問候、祝賀語的開頭） |\n| Hari | 天；日 |\n| Natal | 聖誕節 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-Natal",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> （對女士說）聖誕快樂！",
+   "a": "**Selamat Hari Natal, Bu!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat | 祝…（問候、祝賀語的開頭） |\n| Hari | 天；日 |\n| Natal | 聖誕節 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-Oktober",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bulan Oktober saya sibuk.",
+   "a": "**十月我很忙。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bulan | 月；月亮 |\n| Oktober | 十月 |\n| saya | 我（正式） |\n| sibuk | 忙的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-Oktober",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 十月我很忙。",
+   "a": "**Bulan Oktober saya sibuk.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bulan | 月；月亮 |\n| Oktober | 十月 |\n| saya | 我（正式） |\n| sibuk | 忙的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ada",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya ada HP baru.",
+   "a": "**我有一支新手機。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| ada | 有；在 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ada",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我有一支新手機。",
+   "a": "**Saya ada HP baru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| ada | 有；在 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ada_apa",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada apa, Kak?",
+   "a": "**怎麼了？（對哥哥姊姊說）**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada apa | 怎麼了；有什麼事 |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ada_apa",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 怎麼了？（對哥哥姊姊說）",
+   "a": "**Ada apa, Kak?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada apa | 怎麼了；有什麼事 |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-adalah",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya adalah orang Taiwan.",
+   "a": "**我是台灣人。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| adalah | 是（連接主詞和名詞） |\n| orang | 人 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-adalah",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我是台灣人。",
+   "a": "**Saya adalah orang Taiwan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| adalah | 是（連接主詞和名詞） |\n| orang | 人 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-alamat",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Apa alamat kamu?",
+   "a": "**你的地址是什麼？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| alamat | 地址 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-alamat",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你的地址是什麼？",
+   "a": "**Apa alamat kamu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| alamat | 地址 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-anak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Anak saya suka ikan.",
+   "a": "**我的孩子喜歡魚。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| suka | 喜歡 |\n| ikan | 魚 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-anak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的孩子喜歡魚。",
+   "a": "**Anak saya suka ikan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| suka | 喜歡 |\n| ikan | 魚 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-angka",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Angka ini tujuh.",
+   "a": "**這個數字是七。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Angka | 數字 |\n| ini | 這；這個 |\n| tujuh | 七 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-angka",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這個數字是七。",
+   "a": "**Angka ini tujuh.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Angka | 數字 |\n| ini | 這；這個 |\n| tujuh | 七 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-apa",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Apa ini?",
+   "a": "**這是什麼？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-apa",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這是什麼？",
+   "a": "**Apa ini?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-apa_kabar",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hai, apa kabar?",
+   "a": "**嗨，你好嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hai | 嗨 |\n| apa kabar | 你好嗎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-apa_kabar",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 嗨，你好嗎？",
+   "a": "**Hai, apa kabar?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hai | 嗨 |\n| apa kabar | 你好嗎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-asin",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ikan ini asin sekali.",
+   "a": "**這條魚好鹹。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ikan | 魚 |\n| ini | 這；這個 |\n| asin | 鹹的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-asin",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這條魚好鹹。",
+   "a": "**Ikan ini asin sekali.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ikan | 魚 |\n| ini | 這；這個 |\n| asin | 鹹的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-baca",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya baca buku setiap hari.",
+   "a": "**我每天看書。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| baca | 讀 |\n| buku | 書 |\n| setiap | 每；每一 |\n| hari | 天；日 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-baca",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我每天看書。",
+   "a": "**Saya baca buku setiap hari.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| baca | 讀 |\n| buku | 書 |\n| setiap | 每；每一 |\n| hari | 天；日 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bagaimana",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bagaimana dengan kamu?",
+   "a": "**那你呢？（你怎麼樣？）**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bagaimana dengan kamu | 你呢？ |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bagaimana",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那你呢？（你怎麼樣？）",
+   "a": "**Bagaimana dengan kamu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bagaimana dengan kamu | 你呢？ |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bagaimana_dengan_kamu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya baik. Bagaimana dengan kamu?",
+   "a": "**我很好。你呢？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| baik | 好的 |\n| Bagaimana dengan kamu | 你呢？ |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bagaimana_dengan_kamu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我很好。你呢？",
+   "a": "**Saya baik. Bagaimana dengan kamu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| baik | 好的 |\n| Bagaimana dengan kamu | 你呢？ |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-baik",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kabar saya baik.",
+   "a": "**我很好。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kabar | 消息 |\n| saya | 我（正式） |\n| baik | 好的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-baik",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我很好。",
+   "a": "**Kabar saya baik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kabar | 消息 |\n| saya | 我（正式） |\n| baik | 好的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bapak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bapak itu polisi.",
+   "a": "**那位先生是警察。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| itu | 那；那個 |\n| polisi | 警察 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bapak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那位先生是警察。",
+   "a": "**Bapak itu polisi.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| itu | 那；那個 |\n| polisi | 警察 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bebek",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka bebek goreng.",
+   "a": "**我喜歡炸鴨。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| bebek | 鴨 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bebek",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡炸鴨。",
+   "a": "**Saya suka bebek goreng.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| bebek | 鴨 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-berapa",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Berapa orang?",
+   "a": "**幾個人？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| orang | 人 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-berapa",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 幾個人？",
+   "a": "**Berapa orang?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| orang | 人 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-besar",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Rumah itu besar.",
+   "a": "**那棟房子很大。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-besar",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那棟房子很大。",
+   "a": "**Rumah itu besar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-biasa_saja",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Makanan ini biasa saja.",
+   "a": "**這道菜普普通通。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Makanan | 食物；菜 |\n| ini | 這；這個 |\n| biasa saja | 普通；還好 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-biasa_saja",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這道菜普普通通。",
+   "a": "**Makanan ini biasa saja.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Makanan | 食物；菜 |\n| ini | 這；這個 |\n| biasa saja | 普通；還好 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-biru",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tas saya biru.",
+   "a": "**我的包包是藍色的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| biru | 藍色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-biru",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的包包是藍色的。",
+   "a": "**Tas saya biru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| biru | 藍色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bohong",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Jangan bohong!",
+   "a": "**別說謊！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Jangan | 不要（叫人別做） |\n| bohong | 說謊 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bohong",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 別說謊！",
+   "a": "**Jangan bohong!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Jangan | 不要（叫人別做） |\n| bohong | 說謊 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Terima kasih, Bu.",
+   "a": "**謝謝您（女士）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 謝謝您（女士）。",
+   "a": "**Terima kasih, Bu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-buka",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Pasar buka jam enam.",
+   "a": "**市場六點開。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Pasar | 市場 |\n| buka | 開；開門 |\n| jam | 點鐘；小時；時鐘 |\n| enam | 六 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-buka",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 市場六點開。",
+   "a": "**Pasar buka jam enam.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Pasar | 市場 |\n| buka | 開；開門 |\n| jam | 點鐘；小時；時鐘 |\n| enam | 六 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bukan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ini teh, bukan kopi.",
+   "a": "**這是茶，不是咖啡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| teh | 茶 |\n| bukan | 不是（否定名詞） |\n| kopi | 咖啡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bukan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這是茶，不是咖啡。",
+   "a": "**Ini teh, bukan kopi.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| teh | 茶 |\n| bukan | 不是（否定名詞） |\n| kopi | 咖啡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-buku",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Buku itu baru.",
+   "a": "**那本書是新的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Buku | 書 |\n| itu | 那；那個 |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-buku",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那本書是新的。",
+   "a": "**Buku itu baru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Buku | 書 |\n| itu | 那；那個 |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-bulan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Sekarang bulan November.",
+   "a": "**現在是十一月。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sekarang | 現在 |\n| bulan | 月；月亮 |\n| November | 十一月 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-bulan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 現在是十一月。",
+   "a": "**Sekarang bulan November.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sekarang | 現在 |\n| bulan | 月；月亮 |\n| November | 十一月 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-burung",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Burung itu kecil.",
+   "a": "**那隻鳥很小。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Burung | 鳥 |\n| itu | 那；那個 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-burung",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那隻鳥很小。",
+   "a": "**Burung itu kecil.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Burung | 鳥 |\n| itu | 那；那個 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-cantik",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kota ini cantik.",
+   "a": "**這座城市很漂亮。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kota | 城市 |\n| ini | 這；這個 |\n| cantik | 漂亮的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-cantik",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這座城市很漂亮。",
+   "a": "**Kota ini cantik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kota | 城市 |\n| ini | 這；這個 |\n| cantik | 漂亮的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-cari",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya cari toilet.",
+   "a": "**我在找廁所。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| cari | 找 |\n| toilet | 廁所 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-cari",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我在找廁所。",
+   "a": "**Saya cari toilet.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| cari | 找 |\n| toilet | 廁所 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-cepat",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu makan cepat sekali.",
+   "a": "**你吃得好快。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| makan | 吃 |\n| cepat | 快的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-cepat",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你吃得好快。",
+   "a": "**Kamu makan cepat sekali.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| makan | 吃 |\n| cepat | 快的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-cinta",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya cinta kamu.",
+   "a": "**我愛你。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| cinta | 愛 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-cinta",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我愛你。",
+   "a": "**Saya cinta kamu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| cinta | 愛 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-contoh",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ini contoh saja.",
+   "a": "**這只是個例子。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| contoh | 例子 |\n| saja | 只；而已（biasa saja：普普通通） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-contoh",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這只是個例子。",
+   "a": "**Ini contoh saja.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| contoh | 例子 |\n| saja | 只；而已（biasa saja：普普通通） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-cuci",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tolong cuci tangan.",
+   "a": "**請洗手。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| cuci | 洗 |\n| tangan | 手 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-cuci",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請洗手。",
+   "a": "**Tolong cuci tangan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| cuci | 洗 |\n| tangan | 手 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-daging",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya tidak makan daging.",
+   "a": "**我不吃肉。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| makan | 吃 |\n| daging | 肉 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-daging",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我不吃肉。",
+   "a": "**Saya tidak makan daging.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| makan | 吃 |\n| daging | 肉 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-daging_sapi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Daging sapi ini enak.",
+   "a": "**這個牛肉很好吃。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Daging sapi | 牛肉 |\n| ini | 這；這個 |\n| enak | 好吃的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-daging_sapi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這個牛肉很好吃。",
+   "a": "**Daging sapi ini enak.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Daging sapi | 牛肉 |\n| ini | 這；這個 |\n| enak | 好吃的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-datang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Teman saya datang hari ini.",
+   "a": "**我朋友今天來。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Teman | 朋友 |\n| saya | 我（正式） |\n| datang | 來 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-datang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我朋友今天來。",
+   "a": "**Teman saya datang hari ini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Teman | 朋友 |\n| saya | 我（正式） |\n| datang | 來 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-definisi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Apa definisi kata ini?",
+   "a": "**這個詞的定義是什麼？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| definisi | 定義 |\n| kata | 詞；字 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-definisi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這個詞的定義是什麼？",
+   "a": "**Apa definisi kata ini?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| definisi | 定義 |\n| kata | 詞；字 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-di_mana",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu di mana? Saya di rumah.",
+   "a": "**你在哪裡？我在家。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| di mana | 在哪裡 |\n| Saya | 我（正式） |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-di_mana",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你在哪裡？我在家。",
+   "a": "**Kamu di mana? Saya di rumah.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| di mana | 在哪裡 |\n| Saya | 我（正式） |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-di_sana",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Toilet di sana.",
+   "a": "**廁所在那邊。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toilet | 廁所 |\n| di sana | 在那邊（遠處） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-di_sana",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 廁所在那邊。",
+   "a": "**Toilet di sana.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toilet | 廁所 |\n| di sana | 在那邊（遠處） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-di_sini",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya di sini.",
+   "a": "**我在這裡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-di_sini",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我在這裡。",
+   "a": "**Saya di sini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-di_situ",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tas saya di situ.",
+   "a": "**我的包包在那裡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-di_situ",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的包包在那裡。",
+   "a": "**Tas saya di situ.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-emas",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Cincin itu emas.",
+   "a": "**那枚戒指是金的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Cincin | 戒指 |\n| itu | 那；那個 |\n| emas | 黃金 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-emas",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那枚戒指是金的。",
+   "a": "**Cincin itu emas.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Cincin | 戒指 |\n| itu | 那；那個 |\n| emas | 黃金 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ember",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ember itu besar.",
+   "a": "**那個水桶很大。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ember | 水桶 |\n| itu | 那；那個 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ember",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個水桶很大。",
+   "a": "**Ember itu besar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ember | 水桶 |\n| itu | 那；那個 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-enak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bebek ini enak sekali.",
+   "a": "**這隻鴨好好吃。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bebek | 鴨 |\n| ini | 這；這個 |\n| enak | 好吃的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-enak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這隻鴨好好吃。",
+   "a": "**Bebek ini enak sekali.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bebek | 鴨 |\n| ini | 這；這個 |\n| enak | 好吃的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-fakta",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Itu fakta.",
+   "a": "**那是事實。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| fakta | 事實 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-fakta",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那是事實。",
+   "a": "**Itu fakta.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| fakta | 事實 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-fenomena",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Itu fenomena alam.",
+   "a": "**那是自然現象。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| fenomena | 現象 |\n| alam | 自然 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-fenomena",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那是自然現象。",
+   "a": "**Itu fenomena alam.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| fenomena | 現象 |\n| alam | 自然 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-film",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Film itu bagus.",
+   "a": "**那部電影很好看。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Film | 電影 |\n| itu | 那；那個 |\n| bagus | 好；棒 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-film",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那部電影很好看。",
+   "a": "**Film itu bagus.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Film | 電影 |\n| itu | 那；那個 |\n| bagus | 好；棒 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-foto",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ini foto keluarga saya.",
+   "a": "**這是我的全家福。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| foto | 照片 |\n| keluarga | 家庭；家人 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-foto",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這是我的全家福。",
+   "a": "**Ini foto keluarga saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| foto | 照片 |\n| keluarga | 家庭；家人 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-fungsi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Apa fungsi HP ini?",
+   "a": "**這支手機有什麼功能？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| fungsi | 功能 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-fungsi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這支手機有什麼功能？",
+   "a": "**Apa fungsi HP ini?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa | 什麼 |\n| fungsi | 功能 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-gak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu sibuk gak?",
+   "a": "**你忙不忙？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| sibuk | 忙的 |\n| gak | 不（口語） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-gak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你忙不忙？",
+   "a": "**Kamu sibuk gak?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| sibuk | 忙的 |\n| gak | 不（口語） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-gigi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Gigi adik putih.",
+   "a": "**弟弟（或妹妹）的牙齒很白。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Gigi | 牙齒 |\n| adik | 弟弟；妹妹 |\n| putih | 白色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-gigi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 弟弟（或妹妹）的牙齒很白。",
+   "a": "**Gigi adik putih.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Gigi | 牙齒 |\n| adik | 弟弟；妹妹 |\n| putih | 白色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-goreng",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ibu suka ikan goreng.",
+   "a": "**媽媽喜歡炸魚。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| suka | 喜歡 |\n| ikan | 魚 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-goreng",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 媽媽喜歡炸魚。",
+   "a": "**Ibu suka ikan goreng.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| suka | 喜歡 |\n| ikan | 魚 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hape",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hape saya di sini.",
+   "a": "**我的手機在這裡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hape | 手機（口語） |\n| saya | 我（正式） |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hape",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的手機在這裡。",
+   "a": "**Hape saya di sini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hape | 手機（口語） |\n| saya | 我（正式） |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hari",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Satu minggu ada tujuh hari.",
+   "a": "**一星期有七天。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Satu | 一 |\n| minggu | 週；星期日（Minggu） |\n| ada | 有；在 |\n| tujuh | 七 |\n| hari | 天；日 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hari",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 一星期有七天。",
+   "a": "**Satu minggu ada tujuh hari.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Satu | 一 |\n| minggu | 週；星期日（Minggu） |\n| ada | 有；在 |\n| tujuh | 七 |\n| hari | 天；日 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hari_ini",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hari ini hari apa?",
+   "a": "**今天星期幾？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| hari | 天；日 |\n| apa | 什麼 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hari_ini",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 今天星期幾？",
+   "a": "**Hari ini hari apa?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| hari | 天；日 |\n| apa | 什麼 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hari_raya",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat Hari Raya!",
+   "a": "**節日快樂！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat | 祝…（問候、祝賀語的開頭） |\n| Hari Raya | 節日（大節） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hari_raya",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 節日快樂！",
+   "a": "**Selamat Hari Raya!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat | 祝…（問候、祝賀語的開頭） |\n| Hari Raya | 節日（大節） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hemat",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ibu saya sangat hemat.",
+   "a": "**我媽媽很節省。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| saya | 我（正式） |\n| sangat | 很；非常 |\n| hemat | 節省的；省錢 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hemat",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我媽媽很節省。",
+   "a": "**Ibu saya sangat hemat.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| saya | 我（正式） |\n| sangat | 很；非常 |\n| hemat | 節省的；省錢 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hilang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> HP saya hilang!",
+   "a": "**我的手機不見了！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n| hilang | 不見；遺失 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hilang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的手機不見了！",
+   "a": "**HP saya hilang!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n| hilang | 不見；遺失 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-hujan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Sore ini hujan.",
+   "a": "**今天傍晚下雨。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sore | 傍晚；下午 |\n| ini | 這；這個 |\n| hujan | 雨；下雨 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-hujan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 今天傍晚下雨。",
+   "a": "**Sore ini hujan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sore | 傍晚；下午 |\n| ini | 這；這個 |\n| hujan | 雨；下雨 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-huruf",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Nama saya ada lima huruf.",
+   "a": "**我的名字有五個字母。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nama | 名字 |\n| saya | 我（正式） |\n| ada | 有；在 |\n| lima | 五 |\n| huruf | 字母 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-huruf",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的名字有五個字母。",
+   "a": "**Nama saya ada lima huruf.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nama | 名字 |\n| saya | 我（正式） |\n| ada | 有；在 |\n| lima | 五 |\n| huruf | 字母 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ibu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ibu saya guru.",
+   "a": "**我媽媽是老師。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| saya | 我（正式） |\n| guru | 老師 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ibu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我媽媽是老師。",
+   "a": "**Ibu saya guru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| saya | 我（正式） |\n| guru | 老師 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ikan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya tidak makan ikan.",
+   "a": "**我不吃魚。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| makan | 吃 |\n| ikan | 魚 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ikan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我不吃魚。",
+   "a": "**Saya tidak makan ikan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| makan | 吃 |\n| ikan | 魚 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ini",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ini HP saya.",
+   "a": "**這是我的手機。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ini",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這是我的手機。",
+   "a": "**Ini HP saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-itu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Itu rumah teman saya.",
+   "a": "**那是我朋友的家。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| rumah | 房子；家 |\n| teman | 朋友 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-itu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那是我朋友的家。",
+   "a": "**Itu rumah teman saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Itu | 那；那個 |\n| rumah | 房子；家 |\n| teman | 朋友 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-jangan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Jangan minum kopi di sini.",
+   "a": "**不要在這裡喝咖啡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Jangan | 不要（叫人別做） |\n| minum | 喝 |\n| kopi | 咖啡 |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-jangan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 不要在這裡喝咖啡。",
+   "a": "**Jangan minum kopi di sini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Jangan | 不要（叫人別做） |\n| minum | 喝 |\n| kopi | 咖啡 |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kabar",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada kabar dari Ibu?",
+   "a": "**有媽媽的消息嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| kabar | 消息 |\n| dari | 從；來自 |\n| Ibu | 媽媽；女士 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kabar",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 有媽媽的消息嗎？",
+   "a": "**Ada kabar dari Ibu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| kabar | 消息 |\n| dari | 從；來自 |\n| Ibu | 媽媽；女士 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kabar_baik",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Apa kabar? Kabar baik.",
+   "a": "**你好嗎？很好。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa kabar | 你好嗎 |\n| Kabar baik | 很好（回答 apa kabar） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kabar_baik",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你好嗎？很好。",
+   "a": "**Apa kabar? Kabar baik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Apa kabar | 你好嗎 |\n| Kabar baik | 很好（回答 apa kabar） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kacang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka kacang goreng.",
+   "a": "**我喜歡炸花生。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| kacang | 豆子；花生 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kacang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡炸花生。",
+   "a": "**Saya suka kacang goreng.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| kacang | 豆子；花生 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Terima kasih, Kak.",
+   "a": "**謝謝你（哥哥／姊姊）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 謝謝你（哥哥／姊姊）。",
+   "a": "**Terima kasih, Kak.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kakak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kakak saya tinggal di Taichung.",
+   "a": "**我哥哥（姊姊）住在台中。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kakak | 哥哥；姊姊 |\n| saya | 我（正式） |\n| tinggal | 住；居住 |\n| di | 在 |\n| Taichung | 台中（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kakak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我哥哥（姊姊）住在台中。",
+   "a": "**Kakak saya tinggal di Taichung.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kakak | 哥哥；姊姊 |\n| saya | 我（正式） |\n| tinggal | 住；居住 |\n| di | 在 |\n| Taichung | 台中（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kaki",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Sepatu ini kecil untuk kaki saya.",
+   "a": "**這雙鞋對我的腳來說太小了。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sepatu | 鞋子 |\n| ini | 這；這個 |\n| kecil | 小的 |\n| untuk | 給；為了；對…來說 |\n| kaki | 腳 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kaki",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這雙鞋對我的腳來說太小了。",
+   "a": "**Sepatu ini kecil untuk kaki saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sepatu | 鞋子 |\n| ini | 這；這個 |\n| kecil | 小的 |\n| untuk | 給；為了；對…來說 |\n| kaki | 腳 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kamu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu suka film?",
+   "a": "**你喜歡電影嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| suka | 喜歡 |\n| film | 電影 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kamu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你喜歡電影嗎？",
+   "a": "**Kamu suka film?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| suka | 喜歡 |\n| film | 電影 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kaya",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Orang itu kaya sekali.",
+   "a": "**那個人非常有錢。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Orang | 人 |\n| itu | 那；那個 |\n| kaya | 有錢的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kaya",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個人非常有錢。",
+   "a": "**Orang itu kaya sekali.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Orang | 人 |\n| itu | 那；那個 |\n| kaya | 有錢的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ke_mana",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu mau ke mana?",
+   "a": "**你要去哪裡？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| ke mana | 去哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ke_mana",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你要去哪裡？",
+   "a": "**Kamu mau ke mana?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| ke mana | 去哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kecap",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya mau kecap manis.",
+   "a": "**我要甜醬油。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| kecap | 醬油 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kecap",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我要甜醬油。",
+   "a": "**Saya mau kecap manis.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| kecap | 醬油 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kecil",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tas ini kecil.",
+   "a": "**這個包包很小。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| ini | 這；這個 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kecil",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這個包包很小。",
+   "a": "**Tas ini kecil.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| ini | 這；這個 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kenangan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Foto ini kenangan kami.",
+   "a": "**這張照片是我們的回憶。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Foto | 照片 |\n| ini | 這；這個 |\n| kenangan | 回憶 |\n| kami | 我們（不包含聽話的人） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kenangan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這張照片是我們的回憶。",
+   "a": "**Foto ini kenangan kami.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Foto | 照片 |\n| ini | 這；這個 |\n| kenangan | 回憶 |\n| kami | 我們（不包含聽話的人） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-koko",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Koko saya tinggal di Jakarta.",
+   "a": "**我哥哥住在雅加達。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Koko | 哥哥（華裔家庭的稱呼） |\n| saya | 我（正式） |\n| tinggal | 住；居住 |\n| di | 在 |\n| Jakarta | 雅加達（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-koko",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我哥哥住在雅加達。",
+   "a": "**Koko saya tinggal di Jakarta.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Koko | 哥哥（華裔家庭的稱呼） |\n| saya | 我（正式） |\n| tinggal | 住；居住 |\n| di | 在 |\n| Jakarta | 雅加達（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-komik",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Anak saya suka komik.",
+   "a": "**我的孩子喜歡漫畫。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| suka | 喜歡 |\n| komik | 漫畫 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-komik",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的孩子喜歡漫畫。",
+   "a": "**Anak saya suka komik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| suka | 喜歡 |\n| komik | 漫畫 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-koran",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bapak baca koran.",
+   "a": "**爸爸在看報紙。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| baca | 讀 |\n| koran | 報紙 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-koran",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 爸爸在看報紙。",
+   "a": "**Bapak baca koran.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| baca | 讀 |\n| koran | 報紙 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kota",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Taichung kota besar.",
+   "a": "**台中是大城市。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Taichung | 台中（地名） |\n| kota | 城市 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kota",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 台中是大城市。",
+   "a": "**Taichung kota besar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Taichung | 台中（地名） |\n| kota | 城市 |\n| besar | 大的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kurang_baik",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hari ini saya kurang baik.",
+   "a": "**我今天不太好。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| saya | 我（正式） |\n| kurang baik | 不太好 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kurang_baik",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我今天不太好。",
+   "a": "**Hari ini saya kurang baik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| saya | 我（正式） |\n| kurang baik | 不太好 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kursi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Silakan duduk di kursi itu.",
+   "a": "**請坐那張椅子。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| duduk | 坐 |\n| di | 在 |\n| kursi | 椅子 |\n| itu | 那；那個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kursi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請坐那張椅子。",
+   "a": "**Silakan duduk di kursi itu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| duduk | 坐 |\n| di | 在 |\n| kursi | 椅子 |\n| itu | 那；那個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-lagi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya lagi makan.",
+   "a": "**我正在吃飯。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| lagi | 再；又；正在（口語） |\n| makan | 吃 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-lagi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我正在吃飯。",
+   "a": "**Saya lagi makan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| lagi | 再；又；正在（口語） |\n| makan | 吃 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-lumayan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kabar saya lumayan.",
+   "a": "**我還可以。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kabar | 消息 |\n| saya | 我（正式） |\n| lumayan | 還不錯；馬馬虎虎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-lumayan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我還可以。",
+   "a": "**Kabar saya lumayan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kabar | 消息 |\n| saya | 我（正式） |\n| lumayan | 還不錯；馬馬虎虎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-makan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Mau makan ikan goreng?",
+   "a": "**要吃炸魚嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mau | 想要；要 |\n| makan | 吃 |\n| ikan | 魚 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-makan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 要吃炸魚嗎？",
+   "a": "**Mau makan ikan goreng?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mau | 想要；要 |\n| makan | 吃 |\n| ikan | 魚 |\n| goreng | 炸的；炒的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-makasih",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Makasih ya!",
+   "a": "**謝啦！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Makasih | 謝啦（口語） |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-makasih",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 謝啦！",
+   "a": "**Makasih ya!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Makasih | 謝啦（口語） |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mampu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Dia mampu membaca buku itu.",
+   "a": "**他看得懂那本書。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dia | 他；她 |\n| mampu | 能夠；有能力 |\n| membaca | 讀；看（書） |\n| buku | 書 |\n| itu | 那；那個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mampu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 他看得懂那本書。",
+   "a": "**Dia mampu membaca buku itu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dia | 他；她 |\n| mampu | 能夠；有能力 |\n| membaca | 讀；看（書） |\n| buku | 書 |\n| itu | 那；那個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mampus",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Mampus, HP saya hilang!",
+   "a": "**完了，我的手機不見了！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mampus | 死定了；完蛋（粗俗） |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n| hilang | 不見；遺失 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mampus",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 完了，我的手機不見了！",
+   "a": "**Mampus, HP saya hilang!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mampus | 死定了；完蛋（粗俗） |\n| HP | 手機（handphone 的縮寫，讀作 ha-pe） |\n| saya | 我（正式） |\n| hilang | 不見；遺失 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-manis",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kue ini terlalu manis.",
+   "a": "**這個蛋糕太甜了。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kue | 糕點；蛋糕 |\n| ini | 這；這個 |\n| terlalu | 太；過於 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-manis",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這個蛋糕太甜了。",
+   "a": "**Kue ini terlalu manis.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kue | 糕點；蛋糕 |\n| ini | 這；這個 |\n| terlalu | 太；過於 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mata",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Mata dia biru.",
+   "a": "**他的眼睛是藍色的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mata | 眼睛 |\n| dia | 他；她 |\n| biru | 藍色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mata",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 他的眼睛是藍色的。",
+   "a": "**Mata dia biru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mata | 眼睛 |\n| dia | 他；她 |\n| biru | 藍色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mau",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya mau teh manis.",
+   "a": "**我要甜茶。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| teh | 茶 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mau",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我要甜茶。",
+   "a": "**Saya mau teh manis.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| teh | 茶 |\n| manis | 甜的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-meja",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Buku saya di meja.",
+   "a": "**我的書在桌上。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Buku | 書 |\n| saya | 我（正式） |\n| di | 在 |\n| meja | 桌子 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-meja",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的書在桌上。",
+   "a": "**Buku saya di meja.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Buku | 書 |\n| saya | 我（正式） |\n| di | 在 |\n| meja | 桌子 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mini",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tas mini itu cantik.",
+   "a": "**那個迷你包很漂亮。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| mini | 迷你的；小型的 |\n| itu | 那；那個 |\n| cantik | 漂亮的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mini",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個迷你包很漂亮。",
+   "a": "**Tas mini itu cantik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| mini | 迷你的；小型的 |\n| itu | 那；那個 |\n| cantik | 漂亮的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-minum",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu mau minum apa?",
+   "a": "**你想喝什麼？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| minum | 喝 |\n| apa | 什麼 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-minum",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你想喝什麼？",
+   "a": "**Kamu mau minum apa?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| minum | 喝 |\n| apa | 什麼 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-mungkin",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Mungkin hujan sore ini.",
+   "a": "**今天傍晚可能會下雨。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mungkin | 可能；也許 |\n| hujan | 雨；下雨 |\n| sore | 傍晚；下午 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-mungkin",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 今天傍晚可能會下雨。",
+   "a": "**Mungkin hujan sore ini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Mungkin | 可能；也許 |\n| hujan | 雨；下雨 |\n| sore | 傍晚；下午 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-nonton",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka nonton film.",
+   "a": "**我喜歡看電影。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| nonton | 看（電影、表演；口語） |\n| film | 電影 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-nonton",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡看電影。",
+   "a": "**Saya suka nonton film.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| nonton | 看（電影、表演；口語） |\n| film | 電影 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-novel",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Novel ini panjang.",
+   "a": "**這本小說很長。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Novel | 小說 |\n| ini | 這；這個 |\n| panjang | 長 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-novel",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這本小說很長。",
+   "a": "**Novel ini panjang.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Novel | 小說 |\n| ini | 這；這個 |\n| panjang | 長 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-oma",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Oma saya masih sehat.",
+   "a": "**我奶奶身體還很好。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Oma | 奶奶；祖母 |\n| saya | 我（正式） |\n| masih | 還；仍然 |\n| sehat | 健康的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-oma",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我奶奶身體還很好。",
+   "a": "**Oma saya masih sehat.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Oma | 奶奶；祖母 |\n| saya | 我（正式） |\n| masih | 還；仍然 |\n| sehat | 健康的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-orang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Orang itu teman saya.",
+   "a": "**那個人是我朋友。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Orang | 人 |\n| itu | 那；那個 |\n| teman | 朋友 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-orang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個人是我朋友。",
+   "a": "**Orang itu teman saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Orang | 人 |\n| itu | 那；那個 |\n| teman | 朋友 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-pak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat pagi, Pak!",
+   "a": "**先生，早安！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat pagi | 早安（約上午十一點前） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-pak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 先生，早安！",
+   "a": "**Selamat pagi, Pak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat pagi | 早安（約上午十一點前） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-panas",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kopi ini panas sekali.",
+   "a": "**這杯咖啡很燙。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kopi | 咖啡 |\n| ini | 這；這個 |\n| panas | 熱的；燙的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-panas",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這杯咖啡很燙。",
+   "a": "**Kopi ini panas sekali.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kopi | 咖啡 |\n| ini | 這；這個 |\n| panas | 熱的；燙的 |\n| sekali | 非常；很（放在形容詞後） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-panjang_umur",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat ulang tahun, panjang umur ya!",
+   "a": "**生日快樂，祝你長命百歲！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat ulang tahun | 生日快樂 |\n| panjang umur | 長命百歲 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-panjang_umur",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 生日快樂，祝你長命百歲！",
+   "a": "**Selamat ulang tahun, panjang umur ya!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat ulang tahun | 生日快樂 |\n| panjang umur | 長命百歲 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-pasar_malam",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kami ke pasar malam.",
+   "a": "**我們去夜市。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| ke | 去；往 |\n| pasar malam | 夜市 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-pasar_malam",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我們去夜市。",
+   "a": "**Kami ke pasar malam.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| ke | 去；往 |\n| pasar malam | 夜市 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-pergi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu mau pergi ke mana?",
+   "a": "**你要去哪裡？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| pergi | 去；離開 |\n| ke mana | 去哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-pergi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你要去哪裡？",
+   "a": "**Kamu mau pergi ke mana?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| mau | 想要；要 |\n| pergi | 去；離開 |\n| ke mana | 去哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-pipi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Pipi anak itu merah.",
+   "a": "**那個孩子的臉頰紅紅的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Pipi | 臉頰 |\n| anak | 孩子 |\n| itu | 那；那個 |\n| merah | 紅色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-pipi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個孩子的臉頰紅紅的。",
+   "a": "**Pipi anak itu merah.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Pipi | 臉頰 |\n| anak | 孩子 |\n| itu | 那；那個 |\n| merah | 紅色的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-polisi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Polisi itu baik.",
+   "a": "**那位警察人很好。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Polisi | 警察 |\n| itu | 那；那個 |\n| baik | 好的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-polisi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那位警察人很好。",
+   "a": "**Polisi itu baik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Polisi | 警察 |\n| itu | 那；那個 |\n| baik | 好的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-pulang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya mau pulang sekarang.",
+   "a": "**我現在要回家。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| pulang | 回家；回去 |\n| sekarang | 現在 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-pulang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我現在要回家。",
+   "a": "**Saya mau pulang sekarang.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| pulang | 回家；回去 |\n| sekarang | 現在 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-rica-rica",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka bebek rica-rica.",
+   "a": "**我喜歡辣炒鴨。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| bebek | 鴨 |\n| rica-rica | 辣味料理（萬鴉老風味） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-rica-rica",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡辣炒鴨。",
+   "a": "**Saya suka bebek rica-rica.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| bebek | 鴨 |\n| rica-rica | 辣味料理（萬鴉老風味） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-rumah",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Rumah saya kecil.",
+   "a": "**我家很小。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| saya | 我（正式） |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-rumah",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我家很小。",
+   "a": "**Rumah saya kecil.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| saya | 我（正式） |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sakit",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kepala saya sakit.",
+   "a": "**我頭痛。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kepala | 頭 |\n| saya | 我（正式） |\n| sakit | 痛；生病 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sakit",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我頭痛。",
+   "a": "**Kepala saya sakit.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kepala | 頭 |\n| saya | 我（正式） |\n| sakit | 痛；生病 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-salon",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ibu ke salon hari ini.",
+   "a": "**媽媽今天去美容院。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| ke | 去；往 |\n| salon | 美容院；沙龍 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-salon",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 媽媽今天去美容院。",
+   "a": "**Ibu ke salon hari ini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ibu | 媽媽；女士 |\n| ke | 去；往 |\n| salon | 美容院；沙龍 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sampai_jumpa",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Sampai jumpa lagi!",
+   "a": "**下次見！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sampai jumpa | 再見 |\n| lagi | 再；又；正在（口語） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sampai_jumpa",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 下次見！",
+   "a": "**Sampai jumpa lagi!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sampai jumpa | 再見 |\n| lagi | 再；又；正在（口語） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sapi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada sapi di sana.",
+   "a": "**那邊有牛。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sapi | 牛 |\n| di sana | 在那邊（遠處） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sapi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那邊有牛。",
+   "a": "**Ada sapi di sana.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sapi | 牛 |\n| di sana | 在那邊（遠處） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-saya",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya orang Taiwan.",
+   "a": "**我是台灣人。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| orang | 人 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-saya",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我是台灣人。",
+   "a": "**Saya orang Taiwan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| orang | 人 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sebelas",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Anak saya umur sebelas tahun.",
+   "a": "**我的孩子十一歲。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| umur | 年紀；年齡 |\n| sebelas | 十一 |\n| tahun | 年；歲 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sebelas",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的孩子十一歲。",
+   "a": "**Anak saya umur sebelas tahun.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| saya | 我（正式） |\n| umur | 年紀；年齡 |\n| sebelas | 十一 |\n| tahun | 年；歲 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sebentar",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Silakan tunggu sebentar.",
+   "a": "**請稍等一下。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| tunggu | 等 |\n| sebentar | 一下；一會兒 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sebentar",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請稍等一下。",
+   "a": "**Silakan tunggu sebentar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| tunggu | 等 |\n| sebentar | 一下；一會兒 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sehat",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Nenek saya masih sehat.",
+   "a": "**我奶奶還很健康。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nenek | 奶奶；外婆 |\n| saya | 我（正式） |\n| masih | 還；仍然 |\n| sehat | 健康的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sehat",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我奶奶還很健康。",
+   "a": "**Nenek saya masih sehat.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nenek | 奶奶；外婆 |\n| saya | 我（正式） |\n| masih | 還；仍然 |\n| sehat | 健康的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_datang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat datang di Taichung!",
+   "a": "**歡迎來到台中！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat datang | 歡迎（光臨） |\n| di | 在 |\n| Taichung | 台中（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_datang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 歡迎來到台中！",
+   "a": "**Selamat datang di Taichung!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat datang | 歡迎（光臨） |\n| di | 在 |\n| Taichung | 台中（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_jalan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Bapak mau pulang ke Jakarta? Selamat jalan, Pak!",
+   "a": "**先生要回雅加達嗎？一路順風！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| mau | 想要；要 |\n| pulang | 回家；回去 |\n| ke | 去；往 |\n| Jakarta | 雅加達（地名） |\n| Selamat jalan | 一路順風（對要離開的人說） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_jalan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 先生要回雅加達嗎？一路順風！",
+   "a": "**Bapak mau pulang ke Jakarta? Selamat jalan, Pak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Bapak | 爸爸；先生 |\n| mau | 想要；要 |\n| pulang | 回家；回去 |\n| ke | 去；往 |\n| Jakarta | 雅加達（地名） |\n| Selamat jalan | 一路順風（對要離開的人說） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_malam",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat malam, apa kabar?",
+   "a": "**晚安，你好嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat malam | 晚安（天黑後見面或道別都可用） |\n| apa kabar | 你好嗎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_malam",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 晚安，你好嗎？",
+   "a": "**Selamat malam, apa kabar?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat malam | 晚安（天黑後見面或道別都可用） |\n| apa kabar | 你好嗎 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_pagi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Sekarang jam tujuh. Selamat pagi, Kak!",
+   "a": "**現在七點，早安！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sekarang | 現在 |\n| jam | 點鐘；小時；時鐘 |\n| tujuh | 七 |\n| Selamat pagi | 早安（約上午十一點前） |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_pagi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 現在七點，早安！",
+   "a": "**Sekarang jam tujuh. Selamat pagi, Kak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Sekarang | 現在 |\n| jam | 點鐘；小時；時鐘 |\n| tujuh | 七 |\n| Selamat pagi | 早安（約上午十一點前） |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_siang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat siang, Bu Sari.",
+   "a": "**莎莉女士，午安。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat siang | 午安（約中午到下午三點） |\n| Bu | 女士（稱呼年長或已婚的女性） |\n| Sari | Sari（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_siang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 莎莉女士，午安。",
+   "a": "**Selamat siang, Bu Sari.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat siang | 午安（約中午到下午三點） |\n| Bu | 女士（稱呼年長或已婚的女性） |\n| Sari | Sari（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_sore",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat sore, Pak Joko.",
+   "a": "**喬可先生，午安。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat sore | 午安（約下午三點到天黑） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n| Joko | Joko（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_sore",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 喬可先生，午安。",
+   "a": "**Selamat sore, Pak Joko.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat sore | 午安（約下午三點到天黑） |\n| Pak | 先生（稱呼年長或有地位的男性） |\n| Joko | Joko（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_tidur",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat tidur, Ibu!",
+   "a": "**媽媽晚安！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat tidur | 晚安（睡前說） |\n| Ibu | 媽媽；女士 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_tidur",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 媽媽晚安！",
+   "a": "**Selamat tidur, Ibu!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat tidur | 晚安（睡前說） |\n| Ibu | 媽媽；女士 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_tinggal",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya pulang dulu. Selamat tinggal, Kak!",
+   "a": "**我先回去了，再見了！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| pulang | 回家；回去 |\n| dulu | 先（放句尾：先…一下）；以前 |\n| Selamat tinggal | 再見（要離開的人對留下的人說） |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_tinggal",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我先回去了，再見了！",
+   "a": "**Saya pulang dulu. Selamat tinggal, Kak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| pulang | 回家；回去 |\n| dulu | 先（放句尾：先…一下）；以前 |\n| Selamat tinggal | 再見（要離開的人對留下的人說） |\n| Kak | 哥哥、姊姊（稱呼） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-seorang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada seorang polisi di situ.",
+   "a": "**那裡有一位警察。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| seorang | 一位；一個（人） |\n| polisi | 警察 |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-seorang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那裡有一位警察。",
+   "a": "**Ada seorang polisi di situ.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| seorang | 一位；一個（人） |\n| polisi | 警察 |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-seratus",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada seratus orang di sini.",
+   "a": "**這裡有一百個人。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| seratus | 一百 |\n| orang | 人 |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-seratus",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這裡有一百個人。",
+   "a": "**Ada seratus orang di sini.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| seratus | 一百 |\n| orang | 人 |\n| di sini | 在這裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-seribu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Harga teh ini seribu.",
+   "a": "**這杯茶一千（元）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harga | 價格 |\n| teh | 茶 |\n| ini | 這；這個 |\n| seribu | 一千 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-seribu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這杯茶一千（元）。",
+   "a": "**Harga teh ini seribu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harga | 價格 |\n| teh | 茶 |\n| ini | 這；這個 |\n| seribu | 一千 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-siapa",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Siapa nama kamu?",
+   "a": "**你叫什麼名字？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Siapa | 誰 |\n| nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-siapa",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你叫什麼名字？",
+   "a": "**Siapa nama kamu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Siapa | 誰 |\n| nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sibuk",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu sibuk hari ini?",
+   "a": "**你今天忙嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| sibuk | 忙的 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sibuk",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你今天忙嗎？",
+   "a": "**Kamu sibuk hari ini?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| sibuk | 忙的 |\n| hari ini | 今天 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-silakan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Silakan masuk, Pak.",
+   "a": "**先生，請進。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| masuk | 進來；進去 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-silakan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 先生，請進。",
+   "a": "**Silakan masuk, Pak.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Silakan | 請（邀請對方做某事） |\n| masuk | 進來；進去 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sini",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Duduk di sini, ya.",
+   "a": "**坐這裡喔。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Duduk | 坐 |\n| di sini | 在這裡 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記",
+    "重點"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sini",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 坐這裡喔。",
+   "a": "**Duduk di sini, ya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Duduk | 坐 |\n| di sini | 在這裡 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-situ",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kamu di situ?",
+   "a": "**你在那裡嗎？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-situ",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你在那裡嗎？",
+   "a": "**Kamu di situ?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kamu | 你（非正式，對平輩或晚輩） |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sopan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Anak itu sangat sopan.",
+   "a": "**那個孩子很有禮貌。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| itu | 那；那個 |\n| sangat | 很；非常 |\n| sopan | 有禮貌的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sopan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那個孩子很有禮貌。",
+   "a": "**Anak itu sangat sopan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Anak | 孩子 |\n| itu | 那；那個 |\n| sangat | 很；非常 |\n| sopan | 有禮貌的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-suka",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka kopi.",
+   "a": "**我喜歡咖啡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| kopi | 咖啡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-suka",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡咖啡。",
+   "a": "**Saya suka kopi.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| kopi | 咖啡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tahun",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya belajar di sini dua tahun.",
+   "a": "**我在這裡學了兩年。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| belajar | 學習 |\n| di sini | 在這裡 |\n| dua | 二 |\n| tahun | 年；歲 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tahun",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我在這裡學了兩年。",
+   "a": "**Saya belajar di sini dua tahun.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| belajar | 學習 |\n| di sini | 在這裡 |\n| dua | 二 |\n| tahun | 年；歲 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tanggal",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hari ini tanggal tiga.",
+   "a": "**今天是三號。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| tanggal | 日期；（幾）號 |\n| tiga | 三 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tanggal",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 今天是三號。",
+   "a": "**Hari ini tanggal tiga.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| tanggal | 日期；（幾）號 |\n| tiga | 三 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tas",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tas saya di rumah.",
+   "a": "**我的包包在家裡。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tas",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的包包在家裡。",
+   "a": "**Tas saya di rumah.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tas | 包包 |\n| saya | 我（正式） |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-teman",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Dia teman baik saya.",
+   "a": "**他是我的好朋友。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dia | 他；她 |\n| teman | 朋友 |\n| baik | 好的 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-teman",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 他是我的好朋友。",
+   "a": "**Dia teman baik saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dia | 他；她 |\n| teman | 朋友 |\n| baik | 好的 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-terima_kasih",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Terima kasih banyak!",
+   "a": "**非常謝謝！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| banyak | 多（terima kasih banyak：非常感謝） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-terima_kasih",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 非常謝謝！",
+   "a": "**Terima kasih banyak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Terima kasih | 謝謝 |\n| banyak | 多（terima kasih banyak：非常感謝） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tidak",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya tidak mau.",
+   "a": "**我不要。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| mau | 想要；要 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tidak",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我不要。",
+   "a": "**Saya tidak mau.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| tidak | 不（否定動詞、形容詞） |\n| mau | 想要；要 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tidur",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya mau tidur.",
+   "a": "**我要睡了。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| tidur | 睡覺 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tidur",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我要睡了。",
+   "a": "**Saya mau tidur.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| mau | 想要；要 |\n| tidur | 睡覺 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tiket",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Berapa harga tiket ini?",
+   "a": "**這張票多少錢？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| harga | 價格 |\n| tiket | 票 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tiket",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這張票多少錢？",
+   "a": "**Berapa harga tiket ini?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| harga | 價格 |\n| tiket | 票 |\n| ini | 這；這個 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tiram",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya suka saus tiram.",
+   "a": "**我喜歡蠔油。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| saus | 醬；醬汁 |\n| tiram | 牡蠣；蠔 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tiram",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我喜歡蠔油。",
+   "a": "**Saya suka saus tiram.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| suka | 喜歡 |\n| saus | 醬；醬汁 |\n| tiram | 牡蠣；蠔 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-toilet",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Toilet di mana?",
+   "a": "**廁所在哪裡？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toilet | 廁所 |\n| di mana | 在哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-toilet",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 廁所在哪裡？",
+   "a": "**Toilet di mana?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toilet | 廁所 |\n| di mana | 在哪裡 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tolong",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tolong tutup pintu.",
+   "a": "**請關門。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tutup | 關；關門 |\n| pintu | 門 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tolong",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請關門。",
+   "a": "**Tolong tutup pintu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tutup | 關；關門 |\n| pintu | 門 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tulis",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tolong tulis nama kamu.",
+   "a": "**請寫下你的名字。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tulis | 寫 |\n| nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tulis",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請寫下你的名字。",
+   "a": "**Tolong tulis nama kamu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tulis | 寫 |\n| nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tunggu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tolong tunggu saya.",
+   "a": "**請等我。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tunggu | 等 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tunggu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 請等我。",
+   "a": "**Tolong tunggu saya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| tunggu | 等 |\n| saya | 我（正式） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-turut_berduka_cita",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Turut berduka cita, Pak.",
+   "a": "**（對男士說）請節哀。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Turut berduka cita | 節哀順變 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-turut_berduka_cita",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> （對男士說）請節哀。",
+   "a": "**Turut berduka cita, Pak.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Turut berduka cita | 節哀順變 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tutup",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Toko itu sudah tutup.",
+   "a": "**那家店已經關了。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toko | 商店 |\n| itu | 那；那個 |\n| sudah | 已經 |\n| tutup | 關；關門 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tutup",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那家店已經關了。",
+   "a": "**Toko itu sudah tutup.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Toko | 商店 |\n| itu | 那；那個 |\n| sudah | 已經 |\n| tutup | 關；關門 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ular",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada ular di situ!",
+   "a": "**那裡有蛇！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| ular | 蛇 |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ular",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那裡有蛇！",
+   "a": "**Ada ular di situ!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| ular | 蛇 |\n| di situ | 在那裡（不遠） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-umur",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Berapa umur kamu?",
+   "a": "**你幾歲？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| umur | 年紀；年齡 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-umur",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你幾歲？",
+   "a": "**Berapa umur kamu?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Berapa | 多少；幾 |\n| umur | 年紀；年齡 |\n| kamu | 你（非正式，對平輩或晚輩） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-usaha",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ayah saya punya usaha kecil.",
+   "a": "**我爸爸有一個小生意。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ayah | 爸爸 |\n| saya | 我（正式） |\n| punya | 有；擁有 |\n| usaha | 努力；事業、生意 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-usaha",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我爸爸有一個小生意。",
+   "a": "**Ayah saya punya usaha kecil.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ayah | 爸爸 |\n| saya | 我（正式） |\n| punya | 有；擁有 |\n| usaha | 努力；事業、生意 |\n| kecil | 小的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P116",
+   "label": "課本｜舊版 P116",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kami",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kami dari Taiwan.",
+   "a": "**我們來自臺灣。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| dari | 從；來自 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P116",
+   "label": "課本｜舊版 P116",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kami",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我們來自臺灣。",
+   "a": "**Kami dari Taiwan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| dari | 從；來自 |\n| Taiwan | 台灣（地名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P116",
+   "label": "課本｜舊版 P116",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kita",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kita pergi ke pasar.",
+   "a": "**我們（你和我）去市場。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kita | 我們（包含聽話的人） |\n| pergi | 去；離開 |\n| ke | 去；往 |\n| pasar | 市場 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P116",
+   "label": "課本｜舊版 P116",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kita",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我們（你和我）去市場。",
+   "a": "**Kita pergi ke pasar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kita | 我們（包含聽話的人） |\n| pergi | 去；離開 |\n| ke | 去；往 |\n| pasar | 市場 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-belas",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Di kelas kami ada lima belas orang.",
+   "a": "**我們班上有十五個人。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Di | 在 |\n| kelas | 班；課 |\n| kami | 我們（不包含聽話的人） |\n| ada | 有；在 |\n| lima | 五 |\n| belas | 十幾（十一到十九） |\n| orang | 人 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-belas",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我們班上有十五個人。",
+   "a": "**Di kelas kami ada lima belas orang.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Di | 在 |\n| kelas | 班；課 |\n| kami | 我們（不包含聽話的人） |\n| ada | 有；在 |\n| lima | 五 |\n| belas | 十幾（十一到十九） |\n| orang | 人 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-delapan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kelas mulai jam delapan.",
+   "a": "**八點上課。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kelas | 班；課 |\n| mulai | 開始 |\n| jam | 點鐘；小時；時鐘 |\n| delapan | 八 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-delapan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 八點上課。",
+   "a": "**Kelas mulai jam delapan.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kelas | 班；課 |\n| mulai | 開始 |\n| jam | 點鐘；小時；時鐘 |\n| delapan | 八 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-dua",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Dua kopi, ya.",
+   "a": "**兩杯咖啡喔。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dua | 二 |\n| kopi | 咖啡 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-dua",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 兩杯咖啡喔。",
+   "a": "**Dua kopi, ya.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Dua | 二 |\n| kopi | 咖啡 |\n| ya | 喔；啦（語氣詞）；是 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-empat",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Rumah itu punya empat kamar.",
+   "a": "**那間房子有四個房間。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| punya | 有；擁有 |\n| empat | 四 |\n| kamar | 房間 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-empat",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那間房子有四個房間。",
+   "a": "**Rumah itu punya empat kamar.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| punya | 有；擁有 |\n| empat | 四 |\n| kamar | 房間 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-enam",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya bangun jam enam.",
+   "a": "**我六點起床。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| bangun | 起床；醒來 |\n| jam | 點鐘；小時；時鐘 |\n| enam | 六 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-enam",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我六點起床。",
+   "a": "**Saya bangun jam enam.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| bangun | 起床；醒來 |\n| jam | 點鐘；小時；時鐘 |\n| enam | 六 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-juta",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Harga motor itu dua puluh juta.",
+   "a": "**那台機車要兩千萬（印尼盾）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harga | 價格 |\n| motor | 機車 |\n| itu | 那；那個 |\n| dua | 二 |\n| puluh | 十（倍） |\n| juta | 百萬 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-juta",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那台機車要兩千萬（印尼盾）。",
+   "a": "**Harga motor itu dua puluh juta.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harga | 價格 |\n| motor | 機車 |\n| itu | 那；那個 |\n| dua | 二 |\n| puluh | 十（倍） |\n| juta | 百萬 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-kosong",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Rumah itu kosong.",
+   "a": "**那間房子是空的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| kosong | 空的；（唸號碼時）零 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-kosong",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那間房子是空的。",
+   "a": "**Rumah itu kosong.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| itu | 那；那個 |\n| kosong | 空的；（唸號碼時）零 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-lima",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya punya lima teman.",
+   "a": "**我有五個朋友。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| punya | 有；擁有 |\n| lima | 五 |\n| teman | 朋友 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-lima",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我有五個朋友。",
+   "a": "**Saya punya lima teman.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| punya | 有；擁有 |\n| lima | 五 |\n| teman | 朋友 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-nol",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Nomor kamar saya nol tiga.",
+   "a": "**我的房號是零三。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nomor | 號碼 |\n| kamar | 房間 |\n| saya | 我（正式） |\n| nol | 零 |\n| tiga | 三 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-nol",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的房號是零三。",
+   "a": "**Nomor kamar saya nol tiga.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nomor | 號碼 |\n| kamar | 房間 |\n| saya | 我（正式） |\n| nol | 零 |\n| tiga | 三 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-puluh",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Harganya dua puluh ribu.",
+   "a": "**價格是兩萬（印尼盾）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harganya | 它的價格（harga＋-nya） |\n| dua | 二 |\n| puluh | 十（倍） |\n| ribu | 千 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-puluh",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 價格是兩萬（印尼盾）。",
+   "a": "**Harganya dua puluh ribu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Harganya | 它的價格（harga＋-nya） |\n| dua | 二 |\n| puluh | 十（倍） |\n| ribu | 千 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ratus",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada tiga ratus siswa.",
+   "a": "**有三百個學生。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| tiga | 三 |\n| ratus | 百 |\n| siswa | 學生 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ratus",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 有三百個學生。",
+   "a": "**Ada tiga ratus siswa.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| tiga | 三 |\n| ratus | 百 |\n| siswa | 學生 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ribu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ini lima ribu rupiah.",
+   "a": "**這是五千印尼盾。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| lima | 五 |\n| ribu | 千 |\n| rupiah | 印尼盾（貨幣單位） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ribu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 這是五千印尼盾。",
+   "a": "**Ini lima ribu rupiah.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ini | 這；這個 |\n| lima | 五 |\n| ribu | 千 |\n| rupiah | 印尼盾（貨幣單位） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-satu",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Saya punya satu adik.",
+   "a": "**我有一個弟弟（或妹妹）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| punya | 有；擁有 |\n| satu | 一 |\n| adik | 弟弟；妹妹 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-satu",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我有一個弟弟（或妹妹）。",
+   "a": "**Saya punya satu adik.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Saya | 我（正式） |\n| punya | 有；擁有 |\n| satu | 一 |\n| adik | 弟弟；妹妹 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sembilan",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada sembilan kucing di rumah.",
+   "a": "**家裡有九隻貓。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sembilan | 九 |\n| kucing | 貓 |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sembilan",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 家裡有九隻貓。",
+   "a": "**Ada sembilan kucing di rumah.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sembilan | 九 |\n| kucing | 貓 |\n| di | 在 |\n| rumah | 房子；家 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sepuluh",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Ada sepuluh orang di kelas.",
+   "a": "**教室裡有十個人。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sepuluh | 十 |\n| orang | 人 |\n| di | 在 |\n| kelas | 班；課 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sepuluh",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 教室裡有十個人。",
+   "a": "**Ada sepuluh orang di kelas.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Ada | 有；在 |\n| sepuluh | 十 |\n| orang | 人 |\n| di | 在 |\n| kelas | 班；課 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-tiga",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tiga teman saya datang.",
+   "a": "**我的三個朋友來了。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tiga | 三 |\n| teman | 朋友 |\n| saya | 我（正式） |\n| datang | 來 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P148",
+   "label": "課本｜舊版 P148",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-tiga",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我的三個朋友來了。",
+   "a": "**Tiga teman saya datang.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tiga | 三 |\n| teman | 朋友 |\n| saya | 我（正式） |\n| datang | 來 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U2",
+   "label": "課本｜二",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-sakit_gigi",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Adik sakit gigi.",
+   "a": "**弟弟（或妹妹）牙痛。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Adik | 弟弟；妹妹 |\n| sakit gigi | 牙痛 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U2",
+   "label": "課本｜二",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-sakit_gigi",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 弟弟（或妹妹）牙痛。",
+   "a": "**Adik sakit gigi.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Adik | 弟弟；妹妹 |\n| sakit gigi | 牙痛 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-baru",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Rumah makan itu baru.",
+   "a": "**那家餐廳是新開的。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| makan | 吃 |\n| itu | 那；那個 |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-baru",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 那家餐廳是新開的。",
+   "a": "**Rumah makan itu baru.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Rumah | 房子；家 |\n| makan | 吃 |\n| itu | 那；那個 |\n| baru | 新的 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-berduka",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Kami turut berduka cita.",
+   "a": "**我們一同哀悼（請節哀）。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| turut berduka cita | 節哀順變 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-berduka",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 我們一同哀悼（請節哀）。",
+   "a": "**Kami turut berduka cita.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Kami | 我們（不包含聽話的人） |\n| turut berduka cita | 節哀順變 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_natal",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat Natal, Bu Ani.",
+   "a": "**Ani 女士，聖誕快樂。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat Natal | 聖誕快樂 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n| Ani | Ani（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_natal",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> Ani 女士，聖誕快樂。",
+   "a": "**Selamat Natal, Bu Ani.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat Natal | 聖誕快樂 |\n| Bu | 女士（稱呼年長或已婚的女性） |\n| Ani | Ani（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_tahun_baru",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Hari ini tanggal satu Januari. Selamat tahun baru, Pak!",
+   "a": "**今天是一月一日，先生，新年快樂！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| tanggal | 日期；（幾）號 |\n| satu | 一 |\n| Januari | 一月 |\n| Selamat tahun baru | 新年快樂 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_tahun_baru",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 今天是一月一日，先生，新年快樂！",
+   "a": "**Hari ini tanggal satu Januari. Selamat tahun baru, Pak!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Hari ini | 今天 |\n| tanggal | 日期；（幾）號 |\n| satu | 一 |\n| Januari | 一月 |\n| Selamat tahun baru | 新年快樂 |\n| Pak | 先生（稱呼年長或有地位的男性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-selamat_ulang_tahun",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Selamat ulang tahun, Rina!",
+   "a": "**Rina，生日快樂！**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat ulang tahun | 生日快樂 |\n| Rina | Rina（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "U5-2",
+   "label": "課本｜五2",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-selamat_ulang_tahun",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> Rina，生日快樂！",
+   "a": "**Selamat ulang tahun, Rina!**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Selamat ulang tahun | 生日快樂 |\n| Rina | Rina（人名） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-nama",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Nama kamu siapa?",
+   "a": "**你叫什麼名字？**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n| siapa | 誰 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-nama",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 你叫什麼名字？",
+   "a": "**Nama kamu siapa?**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Nama | 名字 |\n| kamu | 你（非正式，對平輩或晚輩） |\n| siapa | 誰 |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-tozh-ulang",
+   "type": "翻成中文",
+   "section": "翻成中文",
+   "q": "Terjemahkan kalimat ini ke dalam bahasa Mandarin:\n\n> Tolong ulang lagi, Bu.",
+   "a": "**老師，請再說一次。**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| ulang | 重複；再做（說）一次 |\n| lagi | 再；又；正在（口語） |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "ORAL-W",
+   "label": "口試｜任務用到的補充單字",
+   "kind": "bank",
+   "tags": [
+    "筆記"
+   ],
+   "format": "flip",
+   "level": 3,
+   "id": "id-toid-ulang",
+   "type": "翻成印尼文",
+   "section": "翻成印尼文",
+   "q": "把這句話翻成印尼文：\n\n> 老師，請再說一次。",
+   "a": "**Tolong ulang lagi, Bu.**\n\n逐字對照：\n\n| Indonesia | 中文 |\n|---|---|\n| Tolong | 請（幫忙）；救命 |\n| ulang | 重複；再做（說）一次 |\n| lagi | 再；又；正在（口語） |\n| Bu | 女士（稱呼年長或已婚的女性） |\n\n> 例句由 AI 自編，拼字與字義依 KBBI"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-00",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **lima puluh satu tambah dua belas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh tiga"
+    ],
+    [
+     "B",
+     "tujuh puluh tiga"
+    ],
+    [
+     "C",
+     "enam puluh dua"
+    ],
+    [
+     "D",
+     "enam puluh empat"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**enam puluh tiga**\n\n51 + 12 = 63\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-01",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **tiga belas tambah tiga belas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "tiga puluh enam"
+    ],
+    [
+     "B",
+     "dua puluh enam"
+    ],
+    [
+     "C",
+     "dua puluh lima"
+    ],
+    [
+     "D",
+     "dua puluh tujuh"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**dua puluh enam**\n\n13 + 13 = 26\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-02",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **dua tambah dua puluh delapan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "empat puluh"
+    ],
+    [
+     "B",
+     "dua puluh sembilan"
+    ],
+    [
+     "C",
+     "tiga puluh satu"
+    ],
+    [
+     "D",
+     "tiga puluh"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**tiga puluh**\n\n2 + 28 = 30\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-03",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **tiga puluh sembilan tambah sebelas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh"
+    ],
+    [
+     "B",
+     "empat puluh sembilan"
+    ],
+    [
+     "C",
+     "lima puluh satu"
+    ],
+    [
+     "D",
+     "lima puluh"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**lima puluh**\n\n39 + 11 = 50\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-04",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **tiga puluh enam tambah tujuh belas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh tiga"
+    ],
+    [
+     "B",
+     "lima puluh dua"
+    ],
+    [
+     "C",
+     "lima puluh tiga"
+    ],
+    [
+     "D",
+     "lima puluh empat"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**lima puluh tiga**\n\n36 + 17 = 53\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-05",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **tiga puluh satu tambah sembilan belas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima puluh"
+    ],
+    [
+     "B",
+     "enam puluh"
+    ],
+    [
+     "C",
+     "empat puluh sembilan"
+    ],
+    [
+     "D",
+     "lima puluh satu"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**lima puluh**\n\n31 + 19 = 50\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-06",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **dua puluh dua tambah tiga puluh tiga** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh lima"
+    ],
+    [
+     "B",
+     "lima puluh empat"
+    ],
+    [
+     "C",
+     "lima puluh enam"
+    ],
+    [
+     "D",
+     "lima puluh lima"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**lima puluh lima**\n\n22 + 33 = 55\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-07",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **dua puluh tiga tambah tiga puluh tujuh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "tujuh puluh"
+    ],
+    [
+     "B",
+     "lima puluh sembilan"
+    ],
+    [
+     "C",
+     "enam puluh satu"
+    ],
+    [
+     "D",
+     "enam puluh"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**enam puluh**\n\n23 + 37 = 60\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-08",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **dua puluh dua tambah dua puluh satu** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima puluh tiga"
+    ],
+    [
+     "B",
+     "empat puluh dua"
+    ],
+    [
+     "C",
+     "empat puluh tiga"
+    ],
+    [
+     "D",
+     "empat puluh empat"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**empat puluh tiga**\n\n22 + 21 = 43\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-09",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **dua tambah tiga puluh tujuh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "empat puluh sembilan"
+    ],
+    [
+     "B",
+     "tiga puluh sembilan"
+    ],
+    [
+     "C",
+     "tiga puluh delapan"
+    ],
+    [
+     "D",
+     "empat puluh"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**tiga puluh sembilan**\n\n2 + 37 = 39\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-10",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua puluh lima dikurangi dua puluh empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "sebelas"
+    ],
+    [
+     "B",
+     "nol"
+    ],
+    [
+     "C",
+     "satu"
+    ],
+    [
+     "D",
+     "dua"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**satu**\n\n25 − 24 = 1\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-11",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua puluh tujuh dikurangi sepuluh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh tujuh"
+    ],
+    [
+     "B",
+     "enam belas"
+    ],
+    [
+     "C",
+     "tujuh belas"
+    ],
+    [
+     "D",
+     "delapan belas"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**tujuh belas**\n\n27 − 10 = 17\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-12",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **enam puluh tiga dikurangi dua puluh delapan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "empat puluh lima"
+    ],
+    [
+     "B",
+     "tiga puluh empat"
+    ],
+    [
+     "C",
+     "tiga puluh enam"
+    ],
+    [
+     "D",
+     "tiga puluh lima"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**tiga puluh lima**\n\n63 − 28 = 35\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-13",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua belas dikurangi tujuh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima belas"
+    ],
+    [
+     "B",
+     "lima"
+    ],
+    [
+     "C",
+     "empat"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**lima**\n\n12 − 7 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-14",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **tujuh belas dikurangi dua belas** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima"
+    ],
+    [
+     "B",
+     "lima belas"
+    ],
+    [
+     "C",
+     "empat"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**lima**\n\n17 − 12 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-15",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **tujuh belas dikurangi empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh tiga"
+    ],
+    [
+     "B",
+     "dua belas"
+    ],
+    [
+     "C",
+     "tiga belas"
+    ],
+    [
+     "D",
+     "empat belas"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**tiga belas**\n\n17 − 4 = 13\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-16",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **enam puluh empat dikurangi tiga puluh tujuh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh tujuh"
+    ],
+    [
+     "B",
+     "tiga puluh tujuh"
+    ],
+    [
+     "C",
+     "dua puluh enam"
+    ],
+    [
+     "D",
+     "dua puluh delapan"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**dua puluh tujuh**\n\n64 − 37 = 27\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-17",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **enam puluh sembilan dikurangi enam puluh empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima belas"
+    ],
+    [
+     "B",
+     "empat"
+    ],
+    [
+     "C",
+     "enam"
+    ],
+    [
+     "D",
+     "lima"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**lima**\n\n69 − 64 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-18",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **delapan puluh tiga dikurangi dua puluh sembilan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh empat"
+    ],
+    [
+     "B",
+     "lima puluh empat"
+    ],
+    [
+     "C",
+     "lima puluh tiga"
+    ],
+    [
+     "D",
+     "lima puluh lima"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**lima puluh empat**\n\n83 − 29 = 54\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-19",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **tujuh puluh dikurangi dua puluh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima puluh"
+    ],
+    [
+     "B",
+     "enam puluh"
+    ],
+    [
+     "C",
+     "empat puluh sembilan"
+    ],
+    [
+     "D",
+     "lima puluh satu"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**lima puluh**\n\n70 − 20 = 50\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-20",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sebelas kali empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima puluh empat"
+    ],
+    [
+     "B",
+     "empat puluh tiga"
+    ],
+    [
+     "C",
+     "empat puluh lima"
+    ],
+    [
+     "D",
+     "empat puluh empat"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**empat puluh empat**\n\n11 × 4 = 44\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-21",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sepuluh kali lima** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh"
+    ],
+    [
+     "B",
+     "empat puluh sembilan"
+    ],
+    [
+     "C",
+     "lima puluh"
+    ],
+    [
+     "D",
+     "lima puluh satu"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**lima puluh**\n\n10 × 5 = 50\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-22",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sepuluh kali delapan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "sembilan puluh"
+    ],
+    [
+     "B",
+     "delapan puluh"
+    ],
+    [
+     "C",
+     "tujuh puluh sembilan"
+    ],
+    [
+     "D",
+     "delapan puluh satu"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**delapan puluh**\n\n10 × 8 = 80\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-23",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sembilan kali empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "empat puluh enam"
+    ],
+    [
+     "B",
+     "tiga puluh lima"
+    ],
+    [
+     "C",
+     "tiga puluh enam"
+    ],
+    [
+     "D",
+     "tiga puluh tujuh"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**tiga puluh enam**\n\n9 × 4 = 36\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-24",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua kali empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "delapan belas"
+    ],
+    [
+     "B",
+     "tujuh"
+    ],
+    [
+     "C",
+     "sembilan"
+    ],
+    [
+     "D",
+     "delapan"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**delapan**\n\n2 × 4 = 8\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-25",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **enam kali enam** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "empat puluh enam"
+    ],
+    [
+     "B",
+     "tiga puluh lima"
+    ],
+    [
+     "C",
+     "tiga puluh tujuh"
+    ],
+    [
+     "D",
+     "tiga puluh enam"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**tiga puluh enam**\n\n6 × 6 = 36\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-26",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sembilan kali enam** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam puluh empat"
+    ],
+    [
+     "B",
+     "lima puluh tiga"
+    ],
+    [
+     "C",
+     "lima puluh empat"
+    ],
+    [
+     "D",
+     "lima puluh lima"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**lima puluh empat**\n\n9 × 6 = 54\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-27",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sepuluh kali tiga** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "tiga puluh"
+    ],
+    [
+     "B",
+     "empat puluh"
+    ],
+    [
+     "C",
+     "dua puluh sembilan"
+    ],
+    [
+     "D",
+     "tiga puluh satu"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**tiga puluh**\n\n10 × 3 = 30\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-28",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua kali tiga** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam belas"
+    ],
+    [
+     "B",
+     "lima"
+    ],
+    [
+     "C",
+     "tujuh"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**enam**\n\n2 × 3 = 6\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-29",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 2,
+   "q": "Hitunglah: **sembilan kali tiga** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "tiga puluh tujuh"
+    ],
+    [
+     "B",
+     "dua puluh enam"
+    ],
+    [
+     "C",
+     "dua puluh tujuh"
+    ],
+    [
+     "D",
+     "dua puluh delapan"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**dua puluh tujuh**\n\n9 × 3 = 27\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-30",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **enam puluh empat dibagi delapan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "delapan belas"
+    ],
+    [
+     "B",
+     "delapan"
+    ],
+    [
+     "C",
+     "tujuh"
+    ],
+    [
+     "D",
+     "sembilan"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**delapan**\n\n64 ÷ 8 = 8\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-31",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **empat puluh delapan dibagi empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh dua"
+    ],
+    [
+     "B",
+     "sebelas"
+    ],
+    [
+     "C",
+     "dua belas"
+    ],
+    [
+     "D",
+     "tiga belas"
+    ]
+   ],
+   "answer": [
+    "C"
+   ],
+   "a": "**dua belas**\n\n48 ÷ 4 = 12\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-32",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **tiga puluh dibagi tiga** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh"
+    ],
+    [
+     "B",
+     "sepuluh"
+    ],
+    [
+     "C",
+     "sembilan"
+    ],
+    [
+     "D",
+     "sebelas"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**sepuluh**\n\n30 ÷ 3 = 10\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-33",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **delapan belas dibagi dua** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "sembilan belas"
+    ],
+    [
+     "B",
+     "delapan"
+    ],
+    [
+     "C",
+     "sepuluh"
+    ],
+    [
+     "D",
+     "sembilan"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**sembilan**\n\n18 ÷ 2 = 9\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-34",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **empat puluh dibagi delapan** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima"
+    ],
+    [
+     "B",
+     "lima belas"
+    ],
+    [
+     "C",
+     "empat"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "A"
+   ],
+   "a": "**lima**\n\n40 ÷ 8 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-35",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **empat belas dibagi tujuh** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua belas"
+    ],
+    [
+     "B",
+     "dua"
+    ],
+    [
+     "C",
+     "satu"
+    ],
+    [
+     "D",
+     "tiga"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**dua**\n\n14 ÷ 7 = 2\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-36",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **tiga puluh dibagi lima** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "enam belas"
+    ],
+    [
+     "B",
+     "lima"
+    ],
+    [
+     "C",
+     "tujuh"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**enam**\n\n30 ÷ 5 = 6\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-37",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **lima puluh dibagi lima** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "dua puluh"
+    ],
+    [
+     "B",
+     "sembilan"
+    ],
+    [
+     "C",
+     "sebelas"
+    ],
+    [
+     "D",
+     "sepuluh"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**sepuluh**\n\n50 ÷ 5 = 10\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-38",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua puluh lima dibagi lima** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima belas"
+    ],
+    [
+     "B",
+     "empat"
+    ],
+    [
+     "C",
+     "enam"
+    ],
+    [
+     "D",
+     "lima"
+    ]
+   ],
+   "answer": [
+    "D"
+   ],
+   "a": "**lima**\n\n25 ÷ 5 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
+  },
+  {
+   "chapter": "P20",
+   "label": "課本｜舊版 P20–57",
+   "kind": "bank",
+   "tags": [
+    "計算"
+   ],
+   "id": "id-calc-39",
+   "type": "Hitungan",
+   "section": "Hitungan",
+   "format": "mc",
+   "level": 1,
+   "q": "Hitunglah: **dua puluh dibagi empat** sama dengan berapa?",
+   "choices": [
+    [
+     "A",
+     "lima belas"
+    ],
+    [
+     "B",
+     "lima"
+    ],
+    [
+     "C",
+     "empat"
+    ],
+    [
+     "D",
+     "enam"
+    ]
+   ],
+   "answer": [
+    "B"
+   ],
+   "a": "**lima**\n\n20 ÷ 4 = 5\n> 題目與答案由程式產生；數字讀法依課堂筆記，句型依 KBBI 例句「dua tambah satu sama dengan tiga」"
   }
  ],
  "exams": [
